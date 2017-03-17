@@ -41,7 +41,7 @@ public class Aurreprozesatzailea {
 			String[] izena=args[0].split("/");
 			String izena1=izena[izena.length-1];
 			fw.write("@relation "+izena1+"\n\n");
-			fw.write("@attribute contents string\n");
+			fw.write("@attribute textua string\n");
 			fw.write("@attribute klasea {");
 			Set<String> key=map.keySet();
 			Iterator<String> it=key.iterator();
@@ -71,7 +71,7 @@ public class Aurreprozesatzailea {
 			String[] izena=args[0].split("/");
 			String izena1=izena[izena.length-1];
 			fw.write("@relation "+izena1+"\n\n");
-			fw.write("@attribute contents string\n");
+			fw.write("@attribute textua string\n");
 			fw.write("@attribute klasea {' '}\n");
 			fw.write("@data\n");
 			while(sarrera.hasNext()){
