@@ -40,10 +40,12 @@ public class FfsInfoGain {
 		AttributeSelection filter= new AttributeSelection();
 		InfoGainAttributeEval eval = new InfoGainAttributeEval();
 		Ranker search=new Ranker();
+		search.setThreshold(0.001);
 		filter.setEvaluator(eval);
 		filter.setSearch(search);
 		filter.setInputFormat(data);
 		Instances newData = Filter.useFilter(data, filter);
+		
 		
 		ArffSaver saver= new ArffSaver();
 		File f=new File(args[1]);
