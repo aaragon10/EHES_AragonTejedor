@@ -3,16 +3,14 @@ package smserabakiak;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
-import java.io.FileWriter;
 import java.io.IOException;
 
 import weka.core.Instances;
 import weka.core.converters.ArffSaver;
 import weka.filters.Filter;
 import weka.filters.unsupervised.attribute.StringToWordVector;
-import weka.filters.unsupervised.instance.SparseToNonSparse;
 
-public class StringToWords {
+public class TFIDF {
 	public static void main(String[] args) throws Exception{
 		FileReader fi=null;
 		try {
@@ -36,6 +34,9 @@ public class StringToWords {
 		data.setClassIndex(data.numAttributes()-1);
 		StringToWordVector sw=new StringToWordVector();
 		sw.setLowerCaseTokens(true);
+		sw.setOutputWordCounts(true);
+		sw.setTFTransform(true);
+		sw.setIDFTransform(true);
 		sw.setInputFormat(data);
 		Instances newData=Filter.useFilter(data, sw);
 		/*SparseToNonSparse s=new SparseToNonSparse();
