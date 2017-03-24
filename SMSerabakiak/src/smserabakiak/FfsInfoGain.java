@@ -6,13 +6,16 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
+import weka.attributeSelection.BestFirst;
+import weka.attributeSelection.CfsSubsetEval;
+import weka.attributeSelection.InfoGainAttributeEval;
+import weka.attributeSelection.Ranker;
 import weka.core.Instances;
 import weka.core.converters.ArffSaver;
 import weka.filters.Filter;
-import weka.filters.unsupervised.attribute.StringToWordVector;
-import weka.filters.unsupervised.instance.SparseToNonSparse;
+import weka.filters.supervised.attribute.AttributeSelection;
 
-public class StringToWords {
+public class FfsInfoGain {
 	public static void main(String[] args) throws Exception{
 		FileReader fi=null;
 		try {
@@ -33,22 +36,19 @@ public class StringToWords {
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 		}
-		data.setClassIndex(data.numAttributes()-1);
-		StringToWordVector sw=new StringToWordVector();
-		sw.setLowerCaseTokens(true);
-		sw.setInputFormat(data);
-		Instances newData=Filter.useFilter(data, sw);
-		/*SparseToNonSparse s=new SparseToNonSparse();
-		s.setInputFormat(newData);
-		Instances new2Data=Filter.useFilter(newData, s);*/
+		data.setClassIndex(0);
+		AttributeSelection filter= new AttributeSelection();
+		InfoGainAttributeEval eval = new InfoGainAttributeEval();
+		Ranker search=new Ranker();
+		filter.setEvaluator(eval);
+		filter.setSearch(search);
+		filter.setInputFormat(data);
+		Instances newData = Filter.useFilter(data, filter);
+		
 		ArffSaver saver= new ArffSaver();
 		File f=new File(args[1]);
 		saver.setInstances(newData);
 		saver.setFile(f);
 		saver.writeBatch();
-	
-
-		
 	}
-
 }
