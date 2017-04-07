@@ -5,9 +5,11 @@ import java.io.IOException;
 import java.io.ObjectOutputStream;
 
 import weka.classifiers.Classifier;
+import weka.classifiers.meta.Bagging;
 import weka.core.Instances;
 
 public class BaggingParametroak {
+	Bagging bgg=new Bagging();
 	Classifier cs;
 	int bagSize;
 	Instances data;
@@ -16,9 +18,12 @@ public class BaggingParametroak {
 		this.cs=pCs;
 		this.bagSize=pBagSize;
 	}
-	public void modelaEgin() throws FileNotFoundException, IOException{
+	public void modelaEgin() throws Exception{
+		this.bgg.setBagSizePercent(bagSize);
+		this.bgg.setClassifier(cs);
+		this.bgg.buildClassifier(data);
 		 ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("path"));
-		 oos.writeObject(cs);
+		 oos.writeObject(bgg);
 		 oos.flush();
 		 oos.close();
 	}

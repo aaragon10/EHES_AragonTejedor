@@ -1,8 +1,10 @@
 package smserabakiakBatu;
 
 import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.ObjectOutputStream;
 
 import weka.classifiers.Classifier;
 import weka.classifiers.Evaluation;
@@ -81,7 +83,12 @@ public class BaggingBatu {
 		
 		//Biak konparatu
 		if(fmOptimoa<fmeasureBaseline){
-			cf=nb;
+			NaiveBayes naive=new NaiveBayes();
+			naive.buildClassifier(dataTrain);
+			ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream(args[3]));
+			oos.writeObject(bgg);
+			oos.flush();
+			oos.close();
 		}else{
 			BaggingParametroak bp=new BaggingParametroak(dataTrain, cf, iOptimoa, args[3]);
 		}
