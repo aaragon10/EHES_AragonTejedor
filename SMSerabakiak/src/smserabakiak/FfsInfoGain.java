@@ -6,6 +6,8 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
+import javax.swing.SingleSelectionModel;
+
 import weka.attributeSelection.BestFirst;
 import weka.attributeSelection.CfsSubsetEval;
 import weka.attributeSelection.InfoGainAttributeEval;
@@ -37,6 +39,7 @@ public class FfsInfoGain {
 			// TODO Auto-generated catch block
 		}
 		data.setClassIndex(0);
+		
 		AttributeSelection filter= new AttributeSelection();
 		InfoGainAttributeEval eval = new InfoGainAttributeEval();
 		Ranker search=new Ranker();

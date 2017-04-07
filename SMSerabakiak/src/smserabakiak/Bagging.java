@@ -5,8 +5,8 @@ import java.io.FileReader;
 import java.io.IOException;
 
 import weka.core.Instances;
-import weka.filters.unsupervised.attribute.Add;
-import weka.gui.beans.Filter;
+import weka.filters.unsupervised.attribute.Standardize;
+import weka.filters.Filter;
 
 public class Bagging {
 	public static void main(String[] args) throws Exception{
@@ -36,7 +36,8 @@ public class Bagging {
 		}
 		dataTrain.setClassIndex(dataTrain.numAttributes()-1);
 		dataDev.setClassIndex(dataDev.numAttributes()-1);
-		//Konpatibilizatu biak aurrera jarraitu baino lehen
-		
+		System.out.println(dataTrain.numAttributes());
+		System.out.println(dataDev.numAttributes());
+		System.out.println(dataTrain.equalHeaders(dataDev));
 	}
 }

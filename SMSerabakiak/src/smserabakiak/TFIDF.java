@@ -32,12 +32,15 @@ public class TFIDF {
 			// TODO Auto-generated catch block
 		}
 		data.setClassIndex(data.numAttributes()-1);
+		System.out.println(data.numAttributes());
 		StringToWordVector sw=new StringToWordVector();
+		sw.setInputFormat(data);
+		sw.setDictionaryFileToSaveTo(new File("dictionary.txt"));
 		sw.setLowerCaseTokens(true);
 		sw.setOutputWordCounts(true);
 		sw.setTFTransform(true);
 		sw.setIDFTransform(true);
-		sw.setInputFormat(data);
+		
 		Instances newData=Filter.useFilter(data, sw);
 		/*SparseToNonSparse s=new SparseToNonSparse();
 		s.setInputFormat(newData);
