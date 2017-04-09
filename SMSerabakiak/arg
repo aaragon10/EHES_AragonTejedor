@@ -1,0 +1,1896 @@
+@relation 'SMS_SpamCollection.train.txt-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-N0-L-stemmerweka.core.stemmers.NullStemmer-stopwords-handlerweka.core.stopwords.Null-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.InfoGainAttributeEval-Sweka.attributeSelection.Ranker -T 0.001 -N -1-weka.filters.unsupervised.attribute.Reorder-Rfirst-last'
+
+@attribute call numeric
+@attribute txt numeric
+@attribute free numeric
+@attribute mobile numeric
+@attribute www numeric
+@attribute claim numeric
+@attribute prize numeric
+@attribute won numeric
+@attribute to numeric
+@attribute & numeric
+@attribute win numeric
+@attribute uk numeric
+@attribute reply numeric
+@attribute guaranteed numeric
+@attribute text numeric
+@attribute stop numeric
+@attribute or numeric
+@attribute service numeric
+@attribute urgent numeric
+@attribute awarded numeric
+@attribute i numeric
+@attribute co numeric
+@attribute your numeric
+@attribute now numeric
+@attribute nokia numeric
+@attribute code numeric
+@attribute tone numeric
+@attribute a numeric
+@attribute 50 numeric
+@attribute from numeric
+@attribute £1 numeric
+@attribute 150ppm numeric
+@attribute cash numeric
+@attribute com numeric
+@attribute £1000 numeric
+@attribute £2000 numeric
+@attribute receive numeric
+@attribute 16+ numeric
+@attribute draw numeric
+@attribute shows numeric
+@attribute contact numeric
+@attribute t&cs numeric
+@attribute weekly numeric
+@attribute ringtone numeric
+@attribute mob numeric
+@attribute po numeric
+@attribute per numeric
+@attribute new numeric
+@attribute customer numeric
+@attribute entry numeric
+@attribute video numeric
+@attribute 500 numeric
+@attribute valid numeric
+@attribute £100 numeric
+@attribute for numeric
+@attribute ur numeric
+@attribute our numeric
+@attribute rate numeric
+@attribute £500 numeric
+@attribute bonus numeric
+@attribute expires numeric
+@attribute chat numeric
+@attribute 18 numeric
+@attribute identifier numeric
+@attribute statement numeric
+@attribute 150p numeric
+@attribute apply numeric
+@attribute latest numeric
+@attribute box numeric
+@attribute 2 numeric
+@attribute line numeric
+@attribute network numeric
+@attribute camera numeric
+@attribute landline numeric
+@attribute private numeric
+@attribute 08000930705 numeric
+@attribute vouchers numeric
+@attribute 86688 numeric
+@attribute 12hrs numeric
+@attribute club numeric
+@attribute selected numeric
+@attribute collect numeric
+@attribute attempt numeric
+@attribute 2003 numeric
+@attribute land numeric
+@attribute collection numeric
+@attribute ltd numeric
+@attribute 18+ numeric
+@attribute mins numeric
+@attribute award numeric
+@attribute 4* numeric
+@attribute 16 numeric
+@attribute 800 numeric
+@attribute camcorder numeric
+@attribute pobox numeric
+@attribute 87066 numeric
+@attribute un-redeemed numeric
+@attribute unsubscribe numeric
+@attribute but numeric
+@attribute cost numeric
+@attribute points numeric
+@attribute music numeric
+@attribute top numeric
+@attribute my numeric
+@attribute colour numeric
+@attribute national numeric
+@attribute services numeric
+@attribute wkly numeric
+@attribute 150pmsg numeric
+@attribute £5000 numeric
+@attribute operator numeric
+@attribute sae numeric
+@attribute quiz numeric
+@attribute 8007 numeric
+@attribute 100 numeric
+@attribute 750 numeric
+@attribute only numeric
+@attribute 4 numeric
+@attribute account numeric
+@attribute word numeric
+@attribute congratulations numeric
+@attribute delivery numeric
+@attribute pounds numeric
+@attribute live numeric
+@attribute tones numeric
+@attribute dogging numeric
+@attribute opt numeric
+@attribute £250 numeric
+@attribute ntt numeric
+@attribute 10p numeric
+@attribute uks numeric
+@attribute 08000839402 numeric
+@attribute 0800 numeric
+@attribute winner numeric
+@attribute mobiles numeric
+@attribute ipod numeric
+@attribute await numeric
+@attribute send numeric
+@attribute please numeric
+@attribute holiday numeric
+@attribute me numeric
+@attribute todays numeric
+@attribute content numeric
+@attribute games numeric
+@attribute player numeric
+@attribute 1 numeric
+@attribute week numeric
+@attribute http numeric
+@attribute ldew numeric
+@attribute £350 numeric
+@attribute mobileupd8 numeric
+@attribute mates numeric
+@attribute t&c numeric
+@attribute ldn numeric
+@attribute horny numeric
+@attribute 25p numeric
+@attribute caller numeric
+@attribute ts&cs numeric
+@attribute dating numeric
+@attribute poly numeric
+@attribute £200 numeric
+@attribute 1st numeric
+@attribute hot numeric
+@attribute with numeric
+@attribute in numeric
+@attribute txting numeric
+@attribute sex numeric
+@attribute gift numeric
+@attribute offer numeric
+@attribute 2nd numeric
+@attribute &lt numeric
+@attribute 5wb numeric
+@attribute age16 numeric
+@attribute charged numeric
+@attribute cr9 numeric
+@attribute cd numeric
+@attribute 3030 numeric
+@attribute fantasies numeric
+@attribute 10pmin numeric
+@attribute digital numeric
+@attribute 1327 numeric
+@attribute 20p numeric
+@attribute getzed numeric
+@attribute credits numeric
+@attribute croydon numeric
+@attribute 2004 numeric
+@attribute std numeric
+@attribute freemsg numeric
+@attribute hgsuite3422lands numeric
+@attribute 0870 numeric
+@attribute join numeric
+@attribute every numeric
+@attribute orange numeric
+@attribute valued numeric
+@attribute credit numeric
+@attribute voucher numeric
+@attribute direct numeric
+@attribute anything numeric
+@attribute tried numeric
+@attribute sms numeric
+@attribute xmas numeric
+@attribute play numeric
+@attribute m numeric
+@attribute chance numeric
+@attribute net numeric
+@attribute locations numeric
+@attribute cs numeric
+@attribute maximize numeric
+@attribute 82277 numeric
+@attribute vary numeric
+@attribute biz numeric
+@attribute cash-balance numeric
+@attribute cash-in numeric
+@attribute 08707509020 numeric
+@attribute £3 numeric
+@attribute admirer numeric
+@attribute user numeric
+@attribute ec2a numeric
+@attribute complimentary numeric
+@attribute £800 numeric
+@attribute no1 numeric
+@attribute 36504 numeric
+@attribute england numeric
+@attribute tncs numeric
+@attribute spree numeric
+@attribute reward numeric
+@attribute txts numeric
+@attribute ringtones numeric
+@attribute representative numeric
+@attribute rates numeric
+@attribute sp numeric
+@attribute rental numeric
+@attribute da numeric
+@attribute im numeric
+@attribute &gt numeric
+@attribute enter numeric
+@attribute anytime numeric
+@attribute final numeric
+@attribute auction numeric
+@attribute have numeric
+@attribute was numeric
+@attribute home numeric
+@attribute wk numeric
+@attribute order numeric
+@attribute it numeric
+@attribute number numeric
+@attribute its numeric
+@attribute welcome numeric
+@attribute price numeric
+@attribute comp numeric
+@attribute she numeric
+@attribute + numeric
+@attribute standard numeric
+@attribute 08718720201 numeric
+@attribute 020603 numeric
+@attribute handset numeric
+@attribute u-find numeric
+@attribute sipix numeric
+@attribute msg150p numeric
+@attribute cc numeric
+@attribute cds numeric
+@attribute hl numeric
+@attribute inc numeric
+@attribute 08712460324 numeric
+@attribute 150pm numeric
+@attribute w45wq numeric
+@attribute inviting numeric
+@attribute eg numeric
+@attribute wap numeric
+@attribute wc1n3xx numeric
+@attribute uve numeric
+@attribute special-call numeric
+@attribute vodafone numeric
+@attribute fantasy numeric
+@attribute specially numeric
+@attribute largest numeric
+@attribute 08712300220 numeric
+@attribute custcare numeric
+@attribute 3mins numeric
+@attribute 300 numeric
+@attribute 62468 numeric
+@attribute 86021 numeric
+@attribute o2 numeric
+@attribute activate numeric
+@attribute rcvd numeric
+@attribute pod numeric
+@attribute polys numeric
+@attribute tenerife numeric
+@attribute onto numeric
+@attribute announcement numeric
+@attribute norm150ptone numeric
+@attribute r*reveal numeric
+@attribute bt-national-rate numeric
+@attribute gonna numeric
+@attribute info numeric
+@attribute currently numeric
+@attribute feel numeric
+@attribute message numeric
+@attribute real numeric
+@attribute - numeric
+@attribute let numeric
+@attribute get numeric
+@attribute phones numeric
+@attribute dvd numeric
+@attribute ending numeric
+@attribute sunshine numeric
+@attribute offers numeric
+@attribute just numeric
+@attribute msg numeric
+@attribute unlimited numeric
+@attribute pics numeric
+@attribute this numeric
+@attribute not numeric
+@attribute yours numeric
+@attribute ok numeric
+@attribute dun numeric
+@attribute he numeric
+@attribute on numeric
+@attribute s numeric
+@attribute y numeric
+@attribute numbers numeric
+@attribute worth numeric
+@attribute choose numeric
+@attribute work numeric
+@attribute love numeric
+@attribute him numeric
+@attribute either numeric
+@attribute entitled numeric
+@attribute 786 numeric
+@attribute flag numeric
+@attribute 83355 numeric
+@attribute tenants numeric
+@attribute freephone numeric
+@attribute fromm numeric
+@attribute 80488 numeric
+@attribute 10am-7pm numeric
+@attribute access numeric
+@attribute singles numeric
+@attribute 88039 numeric
+@attribute freefone numeric
+@attribute 87575 numeric
+@attribute skilgme numeric
+@attribute unsub numeric
+@attribute euro2004 numeric
+@attribute 87239 numeric
+@attribute 80182 numeric
+@attribute 40gb numeric
+@attribute ansr numeric
+@attribute 50p numeric
+@attribute 2stoptxt numeric
+@attribute £4 numeric
+@attribute 3510i numeric
+@attribute 28 numeric
+@attribute summer numeric
+@attribute supply numeric
+@attribute com1win150ppmx3age16 numeric
+@attribute xchat numeric
+@attribute tariffs numeric
+@attribute 3lp numeric
+@attribute box97n7qp numeric
+@attribute zed numeric
+@attribute subscription numeric
+@attribute £10 numeric
+@attribute eerie numeric
+@attribute del numeric
+@attribute 150ptone numeric
+@attribute deliveredtomorrow numeric
+@attribute arrive numeric
+@attribute 150pmsgrcvdhgsuite3422landsroww1j6hl numeric
+@attribute 7250i numeric
+@attribute £150 numeric
+@attribute txtauction numeric
+@attribute 50week numeric
+@attribute bluetooth numeric
+@attribute billed numeric
+@attribute spook numeric
+@attribute 18+only numeric
+@attribute 09061221066 numeric
+@attribute £3wk numeric
+@attribute roww1j6hl numeric
+@attribute loyalty numeric
+@attribute urawinner numeric
+@attribute ordered numeric
+@attribute savamob numeric
+@attribute max£7 numeric
+@attribute quoting numeric
+@attribute hmv numeric
+@attribute 08715705022 numeric
+@attribute optout numeric
+@attribute saucy numeric
+@attribute 08452810073 numeric
+@attribute polyphonic numeric
+@attribute voda numeric
+@attribute roww1jhl numeric
+@attribute k52 numeric
+@attribute 07xxxxxxxxx numeric
+@attribute sam numeric
+@attribute 00 numeric
+@attribute voicemail numeric
+@attribute jordan numeric
+@attribute logo numeric
+@attribute unredeemed numeric
+@attribute tyrone numeric
+@attribute netcollex numeric
+@attribute ntwk numeric
+@attribute postcode numeric
+@attribute halloween numeric
+@attribute u4 numeric
+@attribute refused numeric
+@attribute purpose numeric
+@attribute q numeric
+@attribute £400 numeric
+@attribute verify numeric
+@attribute ref numeric
+@attribute at numeric
+@attribute t numeric
+@attribute store numeric
+@attribute 12 numeric
+@attribute fancy numeric
+@attribute &amp numeric
+@attribute ill numeric
+@attribute ü numeric
+@attribute yup numeric
+@attribute too numeric
+@attribute daily numeric
+@attribute gay numeric
+@attribute laid numeric
+@attribute pick numeric
+@attribute then numeric
+@attribute so numeric
+@attribute how numeric
+@attribute is numeric
+@attribute few numeric
+@attribute need numeric
+@attribute texts numeric
+@attribute thats numeric
+@attribute wat numeric
+@attribute calls numeric
+@attribute messages numeric
+@attribute hows numeric
+@attribute can numeric
+@attribute off numeric
+@attribute up numeric
+@attribute did numeric
+@attribute asap numeric
+@attribute thinks numeric
+@attribute secret numeric
+@attribute sony numeric
+@attribute always numeric
+@attribute congrats numeric
+@attribute do numeric
+@attribute lor numeric
+@attribute been numeric
+@attribute more numeric
+@attribute mind numeric
+@attribute morning numeric
+@attribute good numeric
+@attribute sweet numeric
+@attribute that numeric
+@attribute visit numeric
+@attribute sexy numeric
+@attribute got numeric
+@attribute buy numeric
+@attribute probably numeric
+@attribute car numeric
+@attribute trying numeric
+@attribute about numeric
+@attribute watching numeric
+@attribute know numeric
+@attribute following numeric
+@attribute fantastic numeric
+@attribute terms numeric
+@attribute mp3 numeric
+@attribute discount numeric
+@attribute has numeric
+@attribute yr numeric
+@attribute weekends numeric
+@attribute double numeric
+@attribute better numeric
+@attribute dat numeric
+@attribute forgot numeric
+@attribute sir numeric
+@attribute part numeric
+@attribute already numeric
+@attribute didnt numeric
+@attribute ive numeric
+@attribute room numeric
+@attribute phone numeric
+@attribute ah numeric
+@attribute 83383 numeric
+@attribute 8552 numeric
+@attribute 83222 numeric
+@attribute 50gbpmtmsg18 numeric
+@attribute 84199 numeric
+@attribute 85069 numeric
+@attribute 50msg numeric
+@attribute 84128 numeric
+@attribute 85023 numeric
+@attribute £75000 numeric
+@attribute 4info numeric
+@attribute 69696 numeric
+@attribute 81303 numeric
+@attribute 60pmin numeric
+@attribute 5we numeric
+@attribute 6wu numeric
+@attribute 61200 numeric
+@attribute 81151 numeric
+@attribute 6days numeric
+@attribute 69888 numeric
+@attribute 5k numeric
+@attribute 542 numeric
+@attribute 77 numeric
+@attribute 5249 numeric
+@attribute 50perwksub numeric
+@attribute 80878 numeric
+@attribute 50pm numeric
+@attribute 80086 numeric
+@attribute 80082 numeric
+@attribute 45239 numeric
+@attribute 09058091854 numeric
+@attribute 450ppw numeric
+@attribute 150 numeric
+@attribute 125gift numeric
+@attribute 121 numeric
+@attribute 11mths numeric
+@attribute 08712405020 numeric
+@attribute 0871750 numeric
+@attribute 08708034412 numeric
+@attribute 08706091795 numeric
+@attribute 087187262701 numeric
+@attribute 150pday numeric
+@attribute 0845 numeric
+@attribute 150pmin numeric
+@attribute 08701417012150p numeric
+@attribute 0870241182716 numeric
+@attribute 08702840625 numeric
+@attribute 10k numeric
+@attribute 100percent-real numeric
+@attribute 40533 numeric
+@attribute 09066364311 numeric
+@attribute 09066358152 numeric
+@attribute 09064012160 numeric
+@attribute 09064011000 numeric
+@attribute 08719181513 numeric
+@attribute 09061209465 numeric
+@attribute 09066362231 numeric
+@attribute 09066380611 numeric
+@attribute 1000 numeric
+@attribute 09066382422 numeric
+@attribute 08718727870 numeric
+@attribute 09071512433 numeric
+@attribute 08718738001 numeric
+@attribute 09066612661 numeric
+@attribute 08719180248 numeric
+@attribute 08081560665 numeric
+@attribute 08001950382 numeric
+@attribute 150ppermesssubscription numeric
+@attribute 311004 numeric
+@attribute 300603 numeric
+@attribute 2optout numeric
+@attribute 2end numeric
+@attribute 2c numeric
+@attribute 09050003091 numeric
+@attribute 87021 numeric
+@attribute 31p numeric
+@attribute 07786200117 numeric
+@attribute 3650 numeric
+@attribute 4-tc numeric
+@attribute 3uz numeric
+@attribute 3qxj9 numeric
+@attribute 3gbp numeric
+@attribute 3g numeric
+@attribute *********** numeric
+@attribute +447797706009 numeric
+@attribute -message numeric
+@attribute 22 numeric
+@attribute 0578 numeric
+@attribute 18yrs numeric
+@attribute 07742676969 numeric
+@attribute 07781482378 numeric
+@attribute 16+only numeric
+@attribute 1956669 numeric
+@attribute 050703 numeric
+@attribute 02073162414 numeric
+@attribute 2007 numeric
+@attribute 20pmin numeric
+@attribute 01223585334 numeric
+@attribute 1x150pwk numeric
+@attribute 20000 numeric
+@attribute £250k numeric
+@attribute £900 numeric
+@attribute 87077 numeric
+@attribute lucozade numeric
+@attribute local numeric
+@attribute logopic numeric
+@attribute loyal numeric
+@attribute liverpool numeric
+@attribute linerental numeric
+@attribute ldnw15h numeric
+@attribute jamster numeric
+@attribute java numeric
+@attribute landlines numeric
+@attribute valid12hrs numeric
+@attribute m26 numeric
+@attribute txttowin numeric
+@attribute usher numeric
+@attribute mk17 numeric
+@attribute mobilesvary numeric
+@attribute moby numeric
+@attribute unique numeric
+@attribute mix numeric
+@attribute upd8 numeric
+@attribute m6 numeric
+@attribute matches numeric
+@attribute matrix3 numeric
+@attribute itcould numeric
+@attribute ip4 numeric
+@attribute videochat numeric
+@attribute instructions numeric
+@attribute g696ga numeric
+@attribute gamestar numeric
+@attribute gaytextbuddy numeric
+@attribute free>ringtone numeric
+@attribute free2day numeric
+@attribute flights numeric
+@attribute fancies numeric
+@attribute vip numeric
+@attribute fixedline numeric
+@attribute gender numeric
+@attribute gent numeric
+@attribute genuine numeric
+@attribute improved numeric
+@attribute inclusive numeric
+@attribute housewives numeric
+@attribute ibhltd numeric
+@attribute videophones numeric
+@attribute georges numeric
+@attribute helpline numeric
+@attribute holder numeric
+@attribute homeowners numeric
+@attribute ukwrc numeric
+@attribute txtin numeric
+@attribute euro numeric
+@attribute recent numeric
+@attribute rally numeric
+@attribute randomly numeric
+@attribute re-schedule numeric
+@attribute provided numeric
+@attribute prompts numeric
+@attribute previously numeric
+@attribute starwars3 numeric
+@attribute porn numeric
+@attribute premier numeric
+@attribute recd numeric
+@attribute smsco numeric
+@attribute txt> numeric
+@attribute 87121 numeric
+@attribute revealed numeric
+@attribute secs numeric
+@attribute scoring numeric
+@attribute shagged numeric
+@attribute rentl numeric
+@attribute removal numeric
+@attribute records numeric
+@attribute sk38xh numeric
+@attribute reminder numeric
+@attribute pocketbabe numeric
+@attribute pobox84 numeric
+@attribute pobox36504w45wq numeric
+@attribute subpoly numeric
+@attribute norm numeric
+@attribute tkts numeric
+@attribute of£2000 numeric
+@attribute tsandcs numeric
+@attribute noline numeric
+@attribute networks numeric
+@attribute tscs087147403231winawk numeric
+@attribute tscs numeric
+@attribute msgs150p numeric
+@attribute oranges numeric
+@attribute textoperator numeric
+@attribute textbuddy numeric
+@attribute subscribed numeric
+@attribute subs16+1win150ppmx3 numeric
+@attribute suprman numeric
+@attribute subscriber numeric
+@attribute t&csbcm4235wc1n3xx numeric
+@attribute tells numeric
+@attribute packs numeric
+@attribute pence numeric
+@attribute personal numeric
+@attribute explicit numeric
+@attribute satisfy numeric
+@attribute chances numeric
+@attribute web numeric
+@attribute box385 numeric
+@attribute yer numeric
+@attribute 88066 numeric
+@attribute comuk numeric
+@attribute contacted numeric
+@attribute box39822 numeric
+@attribute active numeric
+@attribute cr01327bt numeric
+@attribute 89555 numeric
+@attribute 89545 numeric
+@attribute w111wx numeric
+@attribute 89080 numeric
+@attribute bloomberg numeric
+@attribute ac numeric
+@attribute wrc numeric
+@attribute bahamas numeric
+@attribute chart numeric
+@attribute £1250 numeric
+@attribute chosen numeric
+@attribute charges numeric
+@attribute 88088 numeric
+@attribute bcm4284 numeric
+@attribute bid numeric
+@attribute celeb numeric
+@attribute advise numeric
+@attribute algarve numeric
+@attribute careers numeric
+@attribute £10000 numeric
+@attribute box95qu numeric
+@attribute calls£1minmobsmorelkpobox177hp51fl numeric
+@attribute callfreefone numeric
+@attribute august numeric
+@attribute c52 numeric
+@attribute bt-national numeric
+@attribute callcost numeric
+@attribute eng numeric
+@attribute delivered numeric
+@attribute bx420 numeric
+@attribute arsenal numeric
+@attribute 9ae numeric
+@attribute 92h numeric
+@attribute bx420-ip4-5we numeric
+@attribute dload numeric
+@attribute awaiting numeric
+@attribute cust numeric
+@attribute customers numeric
+@attribute £1500 numeric
+@attribute csh11 numeric
+@attribute cw25wx numeric
+@attribute abta numeric
+@attribute britney numeric
+@attribute 89693 numeric
+@attribute oh numeric
+@attribute news numeric
+@attribute okay numeric
+@attribute haha numeric
+@attribute brand numeric
+@attribute official numeric
+@attribute sport numeric
+@attribute member numeric
+@attribute team numeric
+@attribute further numeric
+@attribute goto numeric
+@attribute costs numeric
+@attribute pix numeric
+@attribute still numeric
+@attribute come numeric
+@attribute pic numeric
+@attribute coming numeric
+@attribute thanx numeric
+@attribute once numeric
+@attribute those numeric
+@attribute later numeric
+@attribute people numeric
+@attribute questions numeric
+@attribute update numeric
+@attribute weeks numeric
+@attribute frnd numeric
+@attribute area numeric
+@attribute re numeric
+@attribute waiting numeric
+@attribute never numeric
+@attribute really numeric
+@attribute bed numeric
+@attribute when numeric
+@attribute lar numeric
+@attribute some numeric
+@attribute very numeric
+@attribute happy numeric
+@attribute sorry numeric
+@attribute everything numeric
+@attribute mail numeric
+@attribute isnt numeric
+@attribute wake numeric
+@attribute want numeric
+@attribute havent numeric
+@attribute klasea {ham,spam}
+
+@data
+{0 ?,75 1,76 1,121 1,134 1}
+{0 ?,28 1,71 1,72 1,78 1,93 1,136 1,155 1}
+{0 ?,72 1,78 1}
+{0 ?,89 1,155 1}
+{0 ?,72 1,75 1,93 1,102 1,121 1}
+{0 ?,72 1,102 1,116 1,166 1,169 1}
+{0 ?,12 1,129 1}
+{0 ?,9 1,34 1,72 1,75 1,102 1,108 1,111 1,150 1,162 1}
+{0 ?}
+{0 ?,6 1,52 1,59 1,76 1,100 1,123 1}
+{0 ?,19 1,37 1,110 1,121 1,136 1,155 1}
+{0 ?,8 1,12 1,13 1,28 1,56 1,93 1,103 1,116 1,153 1,155 1,165 1,173 1}
+{0 ?,11 1,72 1,75 1,166 1}
+{0 ?,26 1,64 1,72 1,85 1,93 1,140 1,572 1}
+{0 ?,9 1,60 1,75 1,93 1,102 1,119 1,141 1,170 1}
+{0 ?,6 1,7 1,34 1,152 1,164 1}
+{0 ?,6 1,11 1,162 1}
+{0 ?,24 1,55 1,78 1,109 1,118 1,169 1}
+{0 ?,44 1,70 1}
+{0 ?,6 1,7 1,79 1,102 1,114 1}
+{0 ?,72 1,116 1,153 1,155 1}
+{0 ?,11 1,42 1,66 1,67 1,108 1,119 1}
+{0 ?,9 1,19 1,42 1,69 1,70 1,72 1,75 1,78 1,118 1,173 1,176 1,183 1}
+{0 ?,6 1,49 1,56 1,72 1,83 1,96 1,102 1}
+{0 ?,24 1,72 1,108 1,147 1,150 1}
+{0 ?,3 1,4 1,12 1,21 1,28 1,43 1,44 1,52 1,55 1,64 1,70 1,72 1,76 1,82 1,83 1,115 1,123 1,132 1,152 1,155 1,161 1,173 1,175 1,177 1,180 1,478 1}
+{0 ?,64 1,72 1,74 1,76 1}
+{0 ?,12 1}
+{0 ?,40 1,64 1,72 1,78 1}
+{0 ?,61 1,72 1,82 1,169 1}
+{0 ?,75 1}
+{0 ?,12 1,56 1,58 1,74 1,75 1,144 1,155 1,159 1}
+{0 ?,74 1}
+{0 ?,24 1,78 1,93 1,113 1,125 1,152 1,180 1}
+{0 ?,3 1,4 1,12 1,19 1,24 1,28 1,34 1,38 1,43 1,44 1,56 1,64 1,66 1,72 1,76 1,78 1,83 1,86 1,93 1,109 1,143 1,155 1,168 1,702 1}
+{0 ?,26 1,52 1,72 1,139 1,166 1,180 1}
+{0 ?,2 1,3 1,4 1,12 1,21 1,44 1,55 1,63 1,78 1,98 1,108 1,119 1,141 1,155 1,377 1,424 1,575 1}
+{0 ?,12 1,28 1,44 1,56 1,59 1,75 1}
+{0 ?,52 1,76 1,119 1,152 1}
+{0 ?}
+{0 ?,24 1,39 1,59 1,79 1,103 1,144 1,155 1}
+{0 ?,6 1,50 1,72 1,114 1}
+{0 ?,13 1,72 1,83 1,102 1,109 1,125 1,168 1}
+{0 ?,74 1,166 1}
+{0 ?,42 1,150 1}
+{0 ?,24 1,63 1,64 1,66 1,78 1,155 1,161 1}
+{0 ?,34 1,72 1}
+{0 ?,26 1,28 1,72 1,109 1,155 1,173 1}
+{0 ?,56 1,66 1,75 1,76 1,132 1,155 1,164 1}
+{0 ?,59 1,72 1,73 1,125 1,150 1,155 1}
+{0 ?,64 1,66 1,67 1,86 1,93 1,114 1,128 1,147 1}
+{0 ?,40 1,75 1,76 1}
+{0 ?,3 1,4 1,12 1,21 1,52 1,55 1,56 1,64 1,72 1,76 1,78 1,79 1,94 1,102 1,103 1,108 1,136 1,150 1,153 1,155 1,169 1,173 1}
+{0 ?,21 1,64 1,180 1}
+{0 ?,25 1,28 1,78 1,116 1,153 1}
+{0 ?,26 1,54 1,56 1,93 1,173 1}
+{0 ?}
+{0 ?,12 1,60 1,78 1,80 1,108 1,155 1}
+{0 ?,93 1,155 1}
+{0 ?,52 1,119 1}
+{0 ?,24 1,72 1,76 1,155 1,162 1}
+{0 ?,19 1,28 1,34 1,52 1,121 1,134 1,141 1,142 1,153 1}
+{0 ?,100 1,146 1,153 1,161 1,167 1,175 1}
+{0 ?,54 1,74 1,182 1}
+{0 ?,40 1,74 1,75 1,109 1}
+{0 ?,126 1,150 1,161 1}
+{0 ?,44 1,64 1,72 1,76 1,78 1,96 1,155 1}
+{0 ?,56 1,152 1,162 1}
+{0 ?,12 1,93 1,101 1,109 1,117 1,155 1,158 1}
+{0 ?,60 1,72 1,82 1,93 1,109 1,116 1}
+{0 ?,44 1,72 1,76 1,93 1,102 1,173 1,177 1}
+{0 ?,28 1}
+{0 ?,72 1,75 1,180 1}
+{0 ?,3 1,4 1,28 1,93 1,138 1}
+{0 ?,93 1,175 1}
+{0 ?,75 1,93 1}
+{0 ?,36 1,94 1,141 1,150 1,155 1,162 1,169 1,170 1,173 1}
+{0 ?,72 1,143 1,155 1}
+{0 ?,150 1}
+{0 ?,52 1,116 1}
+{0 ?,34 1,52 1,72 1,155 1,159 1}
+{0 ?,2 1,3 1,4 1,6 1,11 1,12 1,24 1,28 1,48 1,52 1,54 1,55 1,56 1,64 1,66 1,70 1,75 1,76 1,91 1,99 1,103 1,108 1,121 1,150 1,155 1}
+{0 ?,12 1,45 1,72 1,75 1,83 1,103 1,141 1,142 1,155 1,172 1}
+{0 ?,12 1,76 1}
+{0 ?,28 1,157 1,162 1}
+{0 ?,53 1,66 1,73 1,109 1,141 1,147 1,150 1}
+{0 ?,66 1}
+{0 ?,62 1,67 1,72 1}
+{0 ?,12 1,52 1,60 1,113 1}
+{0 ?,7 1,9 1,56 1,75 1,90 1,173 1,180 1}
+{0 ?,12 1,24 1,59 1,66 1,76 1,108 1,113 1}
+{0 ?,11 1,12 1,19 1,72 1,93 1,108 1,109 1,150 1}
+{0 ?,6 1,7 1,12 1,44 1,55 1,75 1,76 1,78 1,94 1,108 1,153 1}
+{0 ?,2 1,24 1,56 1,70 1,78 1,90 1,119 1,150 1,155 1,173 1,180 1}
+{0 ?,52 1,93 1,141 1}
+{0 ?,19 1,69 1,74 1}
+{0 ?,93 1}
+{0 ?,72 1,83 1,108 1,123 1,144 1,150 1,161 1}
+{0 ?,56 1,72 1,78 1,119 1,152 1}
+{0 ?,72 1,78 1}
+{0 ?,12 1,64 1}
+{0 ?,13 1,42 1,155 1}
+{0 ?,114 1}
+{0 ?,52 1,74 1,76 1,78 1,79 1,153 1,155 1}
+{0 ?,89 1}
+{0 ?,52 1,94 1}
+{0 ?,51 1,155 1}
+{0 ?,11 1,19 1,29 1,54 1,65 1,75 1,102 1,109 1,141 1}
+{0 ?,62 1,102 1,146 1}
+{0 ?,26 1,82 1,93 1,103 1,132 1,155 1}
+{0 ?,12 1,51 1,73 1,75 1,97 1}
+{0 ?,3 1,4 1,24 1,56 1,58 1,65 1,72 1,78 1,79 1,99 1,150 1,154 1,169 1}
+{0 ?,60 1,78 1,92 1}
+{0 ?,19 1,26 1,69 1,74 1,128 1}
+{0 ?,2 1,44 1,72 1,78 1,90 1,102 1,103 1,123 1,136 1,153 1,155 1,175 1,180 1}
+{0 ?,13 1,75 1,129 1,150 1,155 1}
+{0 ?,3 1,4 1,26 1,72 1,74 1,75 1,109 1}
+{0 ?,26 1,39 1,72 1}
+{0 ?,16 1,80 1}
+{0 ?,4 1,19 1,72 1,76 1,102 1,108 1}
+{0 ?,73 1,83 1,86 1,116 1,147 1}
+{0 ?,75 1,142 1}
+{0 ?,75 1,108 1}
+{0 ?,9 1,11 1,41 1,72 1,74 1,89 1,102 1,109 1,152 1}
+{0 ?,133 1,179 1}
+{0 ?,19 1,24 1,28 1,44 1,50 1,72 1,96 1,108 1,141 1,155 1}
+{0 ?,40 1}
+{0 ?,12 1,64 1,72 1,75 1,88 1,93 1,111 1,141 1,155 1,169 1,175 1,180 1}
+{0 ?,13 1,55 1,72 1}
+{0 ?,73 1,75 1,78 1,79 1,93 1,113 1,150 1,155 1,173 1}
+{0 ?,16 1,108 1}
+{0 ?,4 1,19 1,109 1}
+{0 ?,76 1,173 1}
+{0 ?,76 1,132 1,180 1}
+{0 ?,116 1,151 1,164 1}
+{0 ?,18 1,28 1,42 1,63 1,72 1,76 1,79 1,83 1,119 1,138 1,141 1,150 1,153 1}
+{0 ?,99 1,116 1,119 1,155 1}
+{0 ?,58 1,74 1,109 1,113 1}
+{0 ?,28 1,75 1,76 1,78 1,150 1,155 1}
+{0 ?,93 1,147 1,161 1}
+{0 ?,1 1,11 1,75 1,90 1,93 1,128 1}
+{0 ?,34 1,144 1}
+{0 ?,40 1,60 1,72 1,144 1,170 1}
+{0 ?,44 1,70 1,116 1,155 1,180 1}
+{0 ?,40 1,75 1,155 1}
+{0 ?,72 1,103 1}
+{0 ?,19 1,44 1,72 1,82 1,119 1,129 1,155 1,537 1}
+{0 ?,24 1,28 1,70 1,75 1,78 1,79 1,82 1,83 1,86 1,93 1,108 1,141 1,150 1}
+{0 ?,16 1,40 1,72 1,114 1,126 1}
+{0 ?,6 1,33 1,75 1,86 1,96 1,105 1,162 1}
+{0 ?,34 1,56 1,93 1,102 1,153 1,155 1}
+{0 ?,3 1,4 1,5 1,24 1,118 1,180 1}
+{0 ?,18 1,34 1,44 1,52 1,69 1,72 1,93 1,102 1,155 1}
+{0 ?}
+{0 ?,11 1,79 1,149 1}
+{0 ?,12 1,56 1,108 1,114 1,116 1,155 1}
+{0 ?,34 1,59 1,63 1,102 1,140 1,155 1,180 1}
+{0 ?,72 1,83 1,111 1}
+{0 ?,34 1,40 1,60 1,72 1,84 1,85 1,152 1,183 1}
+{0 ?,74 1,110 1,116 1,134 1,180 1}
+{0 ?,15 1,78 1,150 1}
+{0 ?,74 1,75 1,116 1}
+{0 ?,72 1,102 1,143 1,155 1,161 1,175 1}
+{0 ?,55 1,75 1,108 1,153 1}
+{0 ?,6 1,72 1,74 1,90 1,103 1,141 1}
+{0 ?,1 1,9 1,114 1,116 1}
+{0 ?,21 1,24 1,64 1,118 1,152 1,155 1}
+{0 ?,6 1,47 1,76 1,119 1,144 1,155 1,174 1,175 1}
+{0 ?,93 1}
+{0 ?}
+{0 ?,24 1,34 1,72 1,76 1,144 1,180 1}
+{0 ?,9 1,46 1,60 1,72 1,79 1,93 1,108 1,114 1,157 1}
+{0 ?,12 1,13 1,49 1,64 1,75 1,76 1,79 1,108 1}
+{0 ?,53 1,73 1,75 1,78 1}
+{0 ?,12 1,42 1,52 1,64 1,82 1,150 1,175 1}
+{0 ?,2 1,62 1}
+{0 ?,16 1,72 1,78 1,93 1,155 1}
+{0 ?,9 1,21 1,70 1,72 1,103 1,126 1,155 1,161 1,173 1}
+{0 ?,59 1,71 1,100 1}
+{0 ?,72 1,155 1}
+{0 ?,6 1,76 1,161 1,175 1}
+{0 ?,164 1,171 1,175 1}
+{0 ?,12 1,13 1,18 1,24 1,43 1,52 1,72 1,74 1,78 1,82 1,83 1,109 1,161 1}
+{0 ?,26 1,54 1,93 1,117 1,139 1}
+{0 ?}
+{0 ?,58 1,60 1,82 1}
+{0 ?,18 1,44 1,72 1}
+{0 ?,20 1,75 1,93 1,128 1,146 1,180 1}
+{0 ?,2 1,34 1,75 1,142 1,146 1}
+{0 ?,24 1,72 1,89 1,102 1,116 1,138 1,170 1}
+{0 ?,44 1,72 1,80 1,108 1,132 1,141 1,143 1,150 1,155 1}
+{0 ?,34 1}
+{0 ?,59 1,78 1,155 1}
+{0 ?,40 1,64 1,76 1,78 1,162 1}
+{0 ?,12 1,59 1,64 1,100 1}
+{0 ?,760 1}
+{0 ?,52 1,82 1,121 1}
+{0 ?,44 1,70 1,141 1}
+{0 ?,52 1,93 1}
+{0 ?,6 1,75 1,76 1}
+{0 ?,69 1,80 1}
+{0 ?}
+{0 ?}
+{0 ?,26 1,40 1,72 1,75 1}
+{0 ?,72 1,108 1,110 1,139 1}
+{0 ?,21 1,44 1,52 1,70 1,80 1,99 1,164 1,169 1}
+{0 ?,80 1,105 1}
+{0 ?,9 1,12 1,21 1,64 1,65 1,68 1,70 1,72 1,77 1,78 1,161 1,168 1,175 1}
+{0 ?,12 1,55 1,74 1,108 1,116 1,141 1}
+{0 ?,12 1}
+{0 ?,3 1,4 1,12 1,18 1,24 1,26 1,48 1,52 1,55 1,66 1,67 1,72 1,75 1,76 1,78 1,79 1,83 1,86 1,93 1,108 1,115 1,141 1,150 1,155 1,169 1}
+{0 ?,42 1,113 1,408 1}
+{0 ?,64 1,168 1}
+{0 ?,19 1}
+{0 ?,44 1,72 1}
+{0 ?,44 1,103 1,155 1,180 1}
+{0 ?,28 1}
+{0 ?,52 1}
+{0 ?,40 1,46 1,103 1,155 1,161 1}
+{0 ?,6 1,136 1,155 1}
+{0 ?,28 1,72 1,83 1}
+{0 ?,62 1,67 1,72 1}
+{0 ?,105 1,125 1,126 1,161 1}
+{0 ?,72 1,92 1,136 1,150 1,155 1,180 1}
+{0 ?,42 1,60 1,150 1}
+{0 ?,3 1,4 1,72 1}
+{0 ?,12 1,28 1,121 1,132 1,150 1,155 1}
+{0 ?,18 1,59 1,72 1,93 1,103 1,114 1,152 1,155 1}
+{0 ?,19 1,25 1,28 1,119 1,150 1,680 1}
+{0 ?,9 1,42 1,66 1,70 1,72 1}
+{0 ?,144 1}
+{0 ?,19 1,24 1,59 1,75 1,114 1,152 1}
+{0 ?,12 1,76 1,153 1}
+{0 ?,76 1,78 1,106 1,116 1,430 1}
+{0 ?,44 1,168 1}
+{0 ?,12 1,24 1,34 1,76 1,78 1,79 1,113 1,129 1,141 1}
+{0 ?,3 1,4 1,12 1,24 1,25 1,29 1,72 1,76 1,79 1,102 1,151 1,155 1,163 1}
+{0 ?,26 1,73 1,75 1,85 1,143 1}
+{0 ?,138 1,169 1}
+{0 ?,12 1,66 1,77 1,82 1,93 1,102 1}
+{0 ?,12 1,59 1,75 1,79 1,100 1}
+{0 ?,26 1,28 1,69 1,72 1,80 1,93 1,109 1}
+{0 ?,72 1,138 1}
+{0 ?,12 1,22 1,24 1,46 1,66 1,72 1,152 1,183 1}
+{0 ?,44 1}
+{0 ?,67 1,70 1,76 1,141 1,162 1}
+{0 ?,52 1,72 1}
+{0 ?,114 1,152 1,156 1,162 1}
+{0 ?,24 1,72 1,116 1}
+{0 ?,3 1,4 1,52 1,72 1}
+{0 ?,83 1,151 1,173 1}
+{0 ?,112 1}
+{0 ?,79 1}
+{0 ?,144 1,162 1}
+{0 ?,9 1,16 1,40 1,76 1,80 1,162 1}
+{0 ?,41 1,179 1}
+{0 ?,19 1,48 1,56 1,59 1,64 1,69 1,72 1,74 1,155 1,161 1,169 1}
+{0 ?,12 1,55 1,64 1,75 1,76 1,83 1,85 1,86 1,93 1,119 1,135 1,138 1,155 1,169 1}
+{0 ?,153 1}
+{0 ?,15 1,17 1,60 1,72 1,108 1,121 1,133 1,138 1,141 1,162 1,179 1}
+{0 ?,56 1,72 1,141 1}
+{0 ?,12 1,64 1,155 1,164 1,175 1}
+{0 ?,74 1,102 1,108 1,123 1,155 1,157 1}
+{0 ?,32 1,93 1,140 1,175 1}
+{0 ?,58 1,61 1,72 1,150 1,169 1}
+{0 ?,44 1,64 1,141 1}
+{0 ?,26 1,52 1,76 1,78 1,102 1,141 1,150 1}
+{0 ?,9 1,72 1,89 1,114 1,138 1,141 1,152 1,669 1}
+{0 ?,59 1,76 1,132 1,164 1}
+{0 ?,12 1,28 1,65 1,72 1,109 1,141 1,161 1}
+{0 ?,44 1}
+{0 ?,18 1,44 1,74 1,75 1,168 1}
+{0 ?,12 1,31 1,56 1,64 1,78 1,86 1,144 1}
+{0 ?,9 1,107 1,118 1}
+{0 ?,155 1}
+{0 ?,2 1,12 1,17 1,50 1,62 1,64 1,78 1,100 1,122 1,150 1,180 1}
+{0 ?,12 1,28 1,60 1,72 1,73 1,75 1,142 1,155 1}
+{0 ?,12 1,24 1,64 1,72 1,75 1,93 1,102 1,116 1,173 1}
+{0 ?,70 1}
+{0 ?,9 1,34 1,44 1,46 1,64 1,162 1}
+{0 ?,36 1,135 1}
+{0 ?,6 1,22 1,79 1,155 1}
+{0 ?,64 1,72 1,93 1,128 1,147 1,155 1}
+{0 ?,21 1,150 1,755 1}
+{0 ?,21 1,70 1,71 1,79 1}
+{0 ?,11 1,89 1}
+{0 ?,64 1,72 1,109 1}
+{0 ?,12 1,64 1,72 1,119 1,161 1}
+{0 ?,11 1,72 1,75 1,166 1}
+{0 ?,7 1,62 1,102 1,106 1}
+{0 ?,116 1,125 1,175 1}
+{0 ?}
+{0 ?,12 1,26 1,44 1,64 1,82 1,102 1,180 1}
+{0 ?,12 1,152 1}
+{0 ?,59 1,70 1,100 1}
+{0 ?,2 1,44 1,52 1,76 1,83 1,90 1,141 1,150 1,154 1,175 1,180 1}
+{0 ?,3 1,4 1,9 1,24 1,75 1,76 1,161 1,763 1}
+{0 ?,17 1,63 1,64 1,75 1,90 1,162 1}
+{0 ?,13 1,19 1,72 1,74 1,76 1,119 1,150 1,155 1}
+{0 ?,72 1,113 1}
+{0 ?,12 1,72 1,82 1,96 1,150 1}
+{0 ?,12 1,55 1,59 1,64 1,75 1,76 1,176 1}
+{0 ?,4 1,19 1,52 1,60 1,72 1,108 1}
+{0 ?,56 1,67 1,75 1,78 1,82 1,117 1,119 1,133 1}
+{0 ?,72 1,75 1,102 1,108 1}
+{0 ?,28 1,74 1,75 1,83 1,86 1,93 1,108 1,119 1,173 1}
+{0 ?,12 1,56 1,61 1,67 1,82 1,102 1}
+{0 ?,105 1,148 1,180 1}
+{0 ?,173 1}
+{0 ?,24 1,72 1,90 1,93 1,111 1,132 1,155 1}
+{0 ?,26 1,73 1,75 1,85 1,143 1}
+{0 ?}
+{0 ?,72 1,99 1,155 1,168 1}
+{0 ?,12 1,30 1,52 1,60 1,75 1,80 1,96 1,99 1,118 1}
+{0 ?,19 1,22 1,24 1,72 1,74 1,82 1,102 1,108 1,160 1}
+{0 ?,28 1,61 1}
+{0 ?,12 1,17 1,50 1,72 1,80 1,116 1,123 1,134 1,180 1}
+{0 ?,21 1,52 1,64 1,139 1}
+{0 ?,12 1,19 1,55 1,64 1,76 1,78 1,102 1,155 1}
+{0 ?,12 1,72 1,93 1,103 1,136 1,155 1,168 1}
+{0 ?,12 1,18 1,44 1,72 1,103 1,119 1}
+{0 ?,65 1,72 1,141 1,157 1,169 1}
+{0 ?,89 1,114 1}
+{0 ?,82 1,102 1,109 1,111 1,155 1}
+{0 ?,25 1,74 1,155 1}
+{0 ?,12 1,15 1,23 1,83 1,85 1,86 1,89 1,108 1,115 1,121 1,144 1}
+{0 ?,28 1,64 1,72 1,75 1,83 1,86 1,93 1,133 1,138 1,141 1,147 1}
+{0 ?,37 1,39 1,52 1,64 1,92 1,155 1,162 1,659 1}
+{0 ?,72 1,141 1}
+{0 ?,78 1,116 1,154 1,173 1,180 1}
+{0 ?}
+{0 ?,9 1,19 1,26 1,73 1,93 1,102 1,145 1,150 1,175 1}
+{0 ?,62 1,72 1,74 1,75 1,90 1,93 1,141 1,175 1}
+{0 ?,40 1,141 1}
+{0 ?,64 1,74 1,108 1,132 1}
+{0 ?,3 1,4 1,56 1,150 1,155 1}
+{0 ?,21 1,52 1,64 1,69 1,108 1,116 1,141 1}
+{0 ?,12 1,44 1,56 1,64 1,132 1,177 1}
+{0 ?,11 1,24 1,28 1,52 1,78 1,79 1,108 1,153 1,177 1}
+{0 ?,59 1}
+{0 ?,28 1,67 1,99 1,147 1,150 1}
+{0 ?,18 1,20 1,52 1,72 1,93 1,150 1,155 1}
+{0 ?,12 1,72 1,76 1,102 1,106 1,114 1,152 1,153 1,155 1,169 1,175 1}
+{0 ?,34 1,73 1,82 1,129 1,152 1,155 1}
+{0 ?,113 1,114 1}
+{0 ?,52 1,66 1,72 1,76 1,135 1}
+{0 ?,11 1,79 1,89 1,138 1,141 1,170 1,171 1,179 1}
+{0 ?,34 1,62 1,72 1}
+{0 ?,3 1,4 1,72 1}
+{0 ?,12 1,19 1,72 1,83 1,93 1,141 1,150 1}
+{0 ?,12 1,19 1,21 1,52 1,64 1,72 1,80 1,102 1,153 1,155 1,180 1}
+{0 ?,75 1,143 1,169 1}
+{0 ?,12 1,59 1,64 1,132 1,155 1,161 1,169 1}
+{0 ?,76 1,141 1}
+{0 ?,18 1,42 1,138 1}
+{0 ?,12 1,52 1,102 1,144 1,155 1,161 1,165 1}
+{0 ?,44 1,72 1}
+{0 ?,74 1,75 1,108 1,141 1}
+{0 ?,56 1}
+{0 ?,77 1,78 1}
+{0 ?,35 1,43 1,66 1,76 1}
+{0 ?,44 1,155 1}
+{0 ?,72 1,83 1,109 1}
+{0 ?,13 1,66 1,72 1,93 1,108 1,141 1}
+{0 ?,20 1,72 1,75 1,93 1,102 1}
+{0 ?,46 1,67 1,72 1}
+{0 ?,3 1,4 1,72 1,119 1}
+{0 ?,75 1,171 1}
+{0 ?,18 1,76 1,108 1,150 1}
+{0 ?,24 1,34 1,44 1,73 1,78 1,155 1}
+{0 ?,114 1}
+{0 ?,9 1,12 1,69 1,169 1}
+{0 ?,12 1,19 1}
+{0 ?,12 1,102 1,155 1,175 1,731 1}
+{0 ?}
+{0 ?,42 1,72 1,116 1,180 1}
+{0 ?,9 1,109 1}
+{0 ?,2 1,3 1,4 1,11 1,12 1,59 1,62 1,76 1,106 1,141 1,155 1,164 1,181 1}
+{0 ?,44 1,155 1}
+{0 ?,12 1,28 1,127 1,161 1}
+{0 ?,180 1}
+{0 ?,71 1,180 1}
+{0 ?,24 1,60 1,64 1}
+{0 ?,24 1,59 1,70 1,109 1,135 1,138 1,141 1,169 1,175 1}
+{0 ?,24 1,28 1,74 1,89 1,138 1,144 1}
+{0 ?,69 1,75 1,114 1}
+{0 ?,2 1,7 1,9 1,41 1,43 1,66 1,75 1,76 1,78 1,102 1,118 1}
+{0 ?,12 1,33 1,49 1,76 1,94 1,142 1,147 1,151 1,179 1}
+{0 ?,74 1,116 1,180 1}
+{0 ?,79 1,113 1,119 1}
+{0 ?,4 1,19 1,72 1,76 1,102 1,108 1}
+{0 ?,12 1,72 1,90 1,116 1,155 1}
+{0 ?,73 1,75 1,78 1,83 1,86 1,173 1}
+{0 ?,2 1,17 1,24 1,74 1,82 1,106 1,141 1,162 1,175 1}
+{0 ?,114 1}
+{0 ?,6 1,9 1,12 1,72 1,73 1,74 1,93 1,162 1}
+{0 ?,12 1,72 1,94 1,109 1,125 1,126 1,136 1}
+{0 ?,12 1,28 1,44 1,52 1,78 1,105 1,116 1,118 1,132 1,141 1,143 1,150 1,169 1,175 1,408 1}
+{0 ?,102 1,154 1}
+{0 ?,52 1,76 1}
+{0 ?,72 1,75 1,169 1}
+{0 ?,28 1,72 1,79 1,115 1,126 1,161 1,162 1,179 1,616 1}
+{0 ?,12 1,28 1,44 1,64 1,73 1,82 1,83 1,86 1,93 1,111 1,136 1,155 1,581 1}
+{0 ?,69 1,79 1,93 1,109 1,118 1,175 1}
+{0 ?,60 1,75 1,144 1,183 1}
+{0 ?,180 1}
+{0 ?,13 1,70 1}
+{0 ?,11 1,12 1,149 1,162 1}
+{0 ?,9 1}
+{0 ?,3 1,4 1,9 1,19 1,118 1,155 1}
+{0 ?,12 1,64 1,72 1,106 1,109 1}
+{0 ?,74 1,76 1}
+{0 ?,9 1,53 1,72 1,89 1,102 1,125 1,143 1}
+{0 ?,179 1}
+{0 ?,8 1,10 1,59 1,75 1,100 1,102 1,140 1,162 1}
+{0 ?,76 1,125 1,575 1}
+{0 ?,12 1,44 1,59 1,64 1}
+{0 ?,33 1,79 1,92 1,514 1}
+{0 ?,76 1,108 1}
+{0 ?,128 1,597 1}
+{0 ?,19 1,20 1,56 1,60 1,64 1,72 1,75 1,78 1,82 1,134 1,152 1,155 1,161 1,164 1,169 1}
+{0 ?,9 1,16 1,25 1}
+{0 ?,69 1,76 1,153 1}
+{0 ?,12 1,79 1,122 1}
+{0 ?,19 1,26 1,28 1,41 1,80 1,93 1,155 1,161 1,183 1}
+{0 ?,3 1,4 1,75 1,88 1,97 1}
+{0 ?,82 1}
+{0 ?,12 1,71 1}
+{0 ?,13 1,150 1}
+{0 ?,3 1,4 1,6 1,12 1,21 1,63 1,72 1,79 1,83 1,102 1,116 1,132 1,690 1}
+{0 ?,6 1,12 1,64 1,74 1,93 1,108 1,175 1}
+{0 ?,19 1,74 1,89 1,102 1,182 1}
+{0 ?,73 1}
+{0 ?,40 1,50 1,67 1,72 1,141 1,169 1}
+{0 ?,46 1,50 1,69 1,72 1,73 1,79 1,89 1,108 1,114 1,152 1,183 1}
+{0 ?,4 1,12 1,52 1,58 1,85 1,129 1}
+{0 ?,34 1,41 1,67 1,72 1,93 1,144 1,169 1}
+{0 ?,56 1,76 1,93 1,102 1,123 1,141 1,153 1}
+{0 ?}
+{0 ?,72 1}
+{0 ?,6 1,75 1,77 1,79 1}
+{0 ?,35 1,42 1,52 1,64 1,72 1,129 1,177 1}
+{0 ?,13 1,24 1,44 1,72 1,75 1,76 1,77 1,78 1,82 1,141 1,155 1,161 1,164 1,169 1}
+{0 ?,12 1,64 1,103 1,155 1}
+{0 ?,12 1,42 1,43 1,70 1,75 1,150 1}
+{0 ?,28 1,44 1,55 1,70 1,93 1,155 1,180 1}
+{0 ?,44 1,72 1,90 1,93 1,151 1}
+{0 ?,83 1,161 1}
+{0 ?,28 1,93 1}
+{0 ?,113 1,116 1}
+{0 ?}
+{0 ?,16 1,75 1,78 1,79 1,105 1,173 1,180 1}
+{0 ?,76 1,152 1}
+{0 ?,12 1,21 1,79 1,108 1,150 1}
+{0 ?,35 1,116 1,173 1}
+{0 ?,155 1,183 1}
+{0 ?,12 1,23 1,44 1,64 1,92 1,110 1,155 1,601 1}
+{0 ?,9 1,28 1,42 1,56 1,72 1,113 1,160 1}
+{0 ?,35 1,69 1,129 1}
+{0 ?,24 1,26 1,72 1,75 1,76 1,82 1,109 1,151 1}
+{0 ?,40 1,78 1,82 1,94 1,109 1,180 1}
+{0 ?,52 1,59 1,152 1}
+{0 ?,116 1,141 1,160 1}
+{0 ?,9 1,11 1,93 1}
+{0 ?,24 1}
+{0 ?,75 1,76 1,78 1,119 1,150 1,180 1}
+{0 ?,12 1,72 1}
+{0 ?,28 1,78 1,142 1,152 1,155 1,161 1,164 1,175 1}
+{0 ?,3 1,4 1,12 1,44 1,56 1,64 1,82 1,103 1,105 1,121 1,155 1,522 1}
+{0 ?,12 1,19 1,26 1,28 1,59 1,69 1,74 1,93 1,173 1}
+{0 ?,155 1,168 1}
+{0 ?,12 1,18 1,28 1,52 1,59 1,64 1,72 1,82 1,99 1,109 1,145 1,150 1}
+{0 ?,3 1,4 1,12 1,19 1,74 1,75 1}
+{0 ?,61 1,64 1,82 1}
+{0 ?,93 1,114 1,157 1,171 1}
+{0 ?,18 1,66 1,70 1,75 1,82 1,173 1}
+{0 ?,12 1,55 1,72 1,155 1}
+{0 ?,89 1,171 1}
+{0 ?,13 1,70 1,180 1}
+{0 ?,12 1,25 1,75 1,103 1,144 1,155 1}
+{0 ?,25 1,70 1,72 1,114 1}
+{0 ?,78 1,108 1,162 1}
+{0 ?,82 1,102 1,143 1,161 1}
+{0 ?,155 1,170 1,183 1}
+{0 ?,162 1,170 1}
+{0 ?,12 1,19 1,72 1,75 1,134 1,158 1,169 1}
+{0 ?,72 1,79 1,164 1}
+{0 ?,79 1,138 1,157 1,162 1}
+{0 ?,34 1,66 1,67 1,88 1,108 1,152 1,155 1,157 1,168 1,175 1,180 1}
+{0 ?,72 1,150 1,153 1,155 1}
+{0 ?,26 1,128 1,155 1}
+{0 ?,74 1,75 1,93 1,134 1,166 1}
+{0 ?,24 1,78 1,117 1,173 1}
+{0 ?,28 1,59 1,75 1,108 1,153 1}
+{0 ?,108 1}
+{0 ?,18 1,72 1,89 1}
+{0 ?,66 1,102 1,116 1,150 1,169 1}
+{0 ?,12 1,51 1,72 1,75 1,109 1,155 1}
+{0 ?,72 1,75 1,139 1}
+{0 ?,55 1,59 1,72 1,78 1,90 1,100 1,102 1,153 1,155 1,157 1,167 1,169 1,180 1}
+{0 ?,12 1,13 1,54 1,114 1}
+{0 ?,121 1}
+{0 ?,12 1,28 1,51 1,72 1,83 1,123 1,155 1,161 1}
+{0 ?,56 1,58 1,141 1}
+{0 ?,26 1,73 1,85 1,143 1}
+{0 ?,3 1,4 1}
+{0 ?,4 1,52 1,72 1}
+{0 ?,17 1,52 1,74 1,75 1,155 1}
+{0 ?,12 1,66 1}
+{0 ?,9 1,18 1,43 1,52 1,72 1,75 1,82 1,150 1}
+{0 ?,58 1,83 1,86 1,93 1,173 1}
+{0 ?,34 1,73 1,75 1,144 1,155 1,373 1}
+{0 ?,60 1,72 1,76 1,82 1,94 1,108 1,118 1,150 1,153 1,169 1}
+{0 ?,29 1,67 1,72 1,75 1,78 1,121 1,161 1,169 1,173 1}
+{0 ?,34 1,121 1,155 1}
+{0 ?,75 1,76 1,180 1}
+{0 ?,3 1,4 1,12 1,44 1,55 1,59 1,64 1,66 1,72 1,76 1,83 1,86 1,100 1,102 1,139 1,144 1,150 1,153 1,155 1,169 1}
+{0 ?,6 1,18 1,72 1,143 1}
+{0 ?,6 1}
+{0 ?,9 1,13 1,17 1,24 1,70 1,72 1,73 1,93 1,105 1,173 1}
+{0 ?,72 1,76 1,93 1,138 1,145 1,155 1,168 1}
+{0 ?,24 1,55 1,72 1,82 1,103 1,131 1}
+{0 ?,11 1,72 1,75 1,166 1}
+{0 ?,2 1,6 1,24 1,72 1,93 1,96 1,103 1,105 1,119 1,132 1}
+{0 ?,52 1,59 1,70 1,72 1,76 1,90 1,102 1,155 1,161 1,166 1,180 1}
+{0 ?,55 1,60 1,75 1,80 1,102 1,108 1,110 1,148 1,153 1,155 1,169 1,180 1}
+{0 ?,9 1,24 1,46 1,72 1,74 1,78 1,106 1,108 1,114 1,157 1}
+{0 ?,75 1,102 1}
+{0 ?,17 1,24 1,78 1,99 1,108 1,155 1,157 1,162 1,180 1}
+{0 ?,3 1,4 1,72 1,143 1,151 1,155 1,168 1,179 1}
+{0 ?,47 1,79 1,82 1,111 1,114 1,119 1,151 1,162 1,173 1}
+{0 ?,75 1}
+{0 ?,40 1,78 1,82 1,94 1,109 1,180 1}
+{0 ?,34 1,65 1,144 1,183 1}
+{0 ?,18 1,72 1,171 1}
+{0 ?,83 1,86 1,93 1,173 1}
+{0 ?,74 1}
+{0 ?,76 1,78 1,115 1,152 1}
+{0 ?,19 1,42 1,72 1,75 1,93 1,103 1,144 1}
+{0 ?,19 1,24 1,72 1,74 1,83 1}
+{0 ?,74 1,75 1,89 1,109 1,114 1}
+{0 ?,12 1,78 1,79 1,175 1}
+{0 ?,3 1,4 1,68 1,76 1,116 1,169 1}
+{0 ?,3 1,4 1,19 1,78 1}
+{0 ?,19 1,76 1,126 1,161 1}
+{0 ?,69 1,76 1,78 1,110 1,125 1,136 1,144 1,147 1,148 1,150 1,155 1,168 1}
+{0 ?,60 1,69 1,72 1,82 1,144 1}
+{0 ?,3 1,4 1,52 1,72 1,76 1,94 1,119 1}
+{0 ?,11 1,19 1,82 1,102 1,144 1,161 1}
+{0 ?}
+{0 ?,20 1,75 1,103 1,108 1,152 1,153 1,161 1}
+{0 ?,43 1,72 1,113 1,136 1,150 1,155 1}
+{0 ?,12 1,175 1}
+{0 ?,63 1,76 1,78 1,102 1,109 1}
+{0 ?,72 1}
+{0 ?,26 1,43 1,102 1,130 1,180 1}
+{0 ?,59 1,115 1,149 1}
+{0 ?,48 1,72 1,155 1,161 1,180 1}
+{0 ?,12 1,58 1,63 1,70 1,72 1,75 1,76 1,78 1,93 1,102 1,150 1,155 1,175 1}
+{0 ?,12 1,28 1,41 1,44 1,64 1,66 1,73 1,74 1,76 1,85 1,129 1,146 1,155 1,160 1}
+{0 ?,72 1,180 1}
+{0 ?,58 1,74 1,75 1,114 1,155 1,161 1}
+{0 ?,9 1,72 1,74 1,150 1,179 1}
+{0 ?,44 1,64 1,116 1,155 1}
+{0 ?,24 1,40 1,60 1,65 1}
+{0 ?,72 1,110 1,155 1,180 1}
+{0 ?,3 1,4 1,108 1,119 1}
+{0 ?,155 1,179 1,183 1}
+{0 ?,52 1,72 1,114 1,151 1,175 1}
+{0 ?,32 1,42 1,74 1,93 1}
+{0 ?,24 1,72 1,90 1,93 1,111 1,132 1,155 1}
+{0 ?,12 1,75 1,102 1}
+{0 ?,116 1,150 1}
+{0 ?,3 1,4 1,24 1,75 1,108 1}
+{0 ?,77 1,173 1}
+{0 ?,12 1,28 1,75 1}
+{0 ?,22 1,44 1,59 1,70 1,72 1,102 1,128 1,180 1}
+{0 ?,10 1,20 1,24 1,74 1,75 1,109 1,146 1,164 1,171 1}
+{0 ?,24 1,108 1,180 1}
+{0 ?,17 1,21 1,64 1}
+{0 ?,72 1}
+{0 ?,12 1,44 1,76 1,93 1,102 1,155 1}
+{0 ?,50 1,70 1,72 1,103 1,118 1,147 1,150 1,155 1,168 1,173 1}
+{0 ?,12 1,44 1,52 1,72 1,75 1,96 1,102 1,114 1,137 1,138 1}
+{0 ?,19 1,40 1}
+{0 ?,12 1,49 1,70 1,72 1,75 1,138 1,153 1,173 1}
+{0 ?,24 1,78 1,85 1,119 1,136 1}
+{0 ?,52 1,72 1,106 1,155 1,159 1}
+{0 ?,72 1,155 1,168 1}
+{0 ?,3 1,4 1,7 1,59 1,101 1,107 1}
+{0 ?,41 1,44 1,170 1}
+{0 ?,17 1,44 1,175 1,180 1}
+{0 ?,58 1,74 1,141 1}
+{0 ?,72 1,161 1}
+{0 ?,12 1,17 1,40 1,66 1,76 1,94 1,153 1,154 1}
+{0 ?,9 1,19 1,65 1,72 1,79 1,182 1}
+{0 ?,72 1,133 1,136 1,162 1,175 1}
+{0 ?,12 1,13 1,21 1,52 1,75 1,79 1,99 1,102 1}
+{0 ?,72 1,100 1}
+{0 ?,12 1,24 1,78 1,79 1,102 1,116 1,176 1}
+{0 ?,4 1,19 1,34 1,60 1,72 1,141 1,155 1,168 1}
+{0 ?,183 1}
+{0 ?,72 1,108 1,128 1,180 1}
+{0 ?,6 1,64 1,72 1,155 1}
+{0 ?,52 1,72 1,78 1,120 1,130 1,155 1}
+{0 ?,64 1,72 1,78 1,83 1,103 1,155 1,173 1}
+{0 ?,19 1,26 1,52 1,64 1,72 1,79 1,83 1,93 1,119 1,133 1,155 1,168 1,177 1,180 1}
+{0 ?,72 1,76 1,150 1}
+{0 ?,70 1,76 1}
+{0 ?,28 1,56 1,65 1,72 1,78 1,83 1,86 1,93 1,110 1,141 1,144 1,155 1}
+{0 ?,11 1,72 1,75 1,166 1}
+{0 ?,52 1,72 1}
+{0 ?,12 1,19 1,56 1,64 1,69 1,72 1,82 1,99 1,155 1,168 1}
+{0 ?,12 1,21 1,24 1,51 1,63 1,64 1,72 1,75 1,78 1,79 1,82 1,83 1,109 1,138 1,145 1,155 1}
+{0 ?,34 1,60 1,92 1,108 1,141 1,155 1,161 1,162 1,164 1}
+{0 ?,6 1,59 1,153 1,155 1,172 1,460 1}
+{0 ?,125 1,128 1}
+{0 ?,24 1,74 1,75 1,89 1,108 1,182 1}
+{0 ?,12 1,24 1,25 1,44 1,49 1,50 1,52 1,64 1,70 1,72 1,78 1,80 1,83 1,100 1,102 1,105 1,117 1,134 1,141 1,150 1,151 1,152 1,153 1,155 1,158 1,169 1,173 1,420 1}
+{0 ?,24 1,72 1,78 1,141 1}
+{0 ?,81 1,155 1}
+{0 ?,15 1}
+{0 ?,39 1,75 1,144 1}
+{0 ?,56 1,72 1,101 1,114 1,162 1}
+{0 ?,105 1}
+{0 ?,12 1,44 1,52 1,56 1,75 1,78 1,155 1,180 1}
+{0 ?,19 1,24 1,40 1,51 1,118 1,123 1,141 1,155 1,164 1,180 1}
+{0 ?,35 1,52 1,55 1,59 1,83 1,86 1,93 1,162 1,173 1}
+{0 ?,12 1,44 1,64 1,70 1,72 1,76 1,83 1,93 1,103 1,108 1,113 1,169 1}
+{0 ?,18 1,72 1,93 1,102 1,108 1,155 1,175 1}
+{0 ?,61 1,70 1,113 1,132 1,152 1,180 1}
+{0 ?,73 1,75 1,97 1,114 1}
+{0 ?,28 1,72 1,102 1,103 1,118 1,155 1}
+{0 ?,73 1}
+{0 ?,72 1,79 1,86 1,93 1,141 1,173 1}
+{0 ?,35 1,52 1,155 1}
+{0 ?,76 1,150 1}
+{0 ?,3 1,4 1,19 1,75 1}
+{0 ?,12 1,28 1,30 1,79 1,82 1,99 1,119 1,151 1}
+{0 ?,24 1,79 1,157 1}
+{0 ?,59 1,72 1,100 1,109 1,118 1,161 1}
+{0 ?,11 1,19 1,24 1,60 1,75 1,106 1,116 1}
+{0 ?,72 1,89 1,93 1,152 1}
+{0 ?,19 1,44 1,76 1,78 1,88 1,110 1}
+{0 ?,52 1,57 1,142 1}
+{0 ?,12 1,52 1,72 1,76 1,123 1}
+{0 ?,11 1,72 1,75 1,166 1}
+{0 ?,75 1,79 1,110 1,116 1,144 1,153 1}
+{0 ?,108 1,113 1,127 1}
+{0 ?,19 1,73 1,93 1,147 1,155 1,157 1,173 1}
+{0 ?,19 1,64 1}
+{0 ?,79 1,102 1,113 1}
+{0 ?,28 1,50 1,72 1,75 1,78 1,83 1,90 1,102 1,180 1}
+{0 ?,152 1}
+{0 ?,13 1,40 1,66 1,72 1,83 1,118 1}
+{0 ?,153 1,179 1}
+{0 ?,59 1,64 1,74 1,155 1}
+{0 ?,44 1,56 1}
+{0 ?,18 1,44 1,108 1,155 1}
+{0 ?,12 1,44 1,60 1}
+{0 ?,149 1}
+{0 ?,50 1,72 1,93 1,141 1,155 1}
+{0 ?,74 1,75 1}
+{0 ?,12 1,90 1}
+{0 ?,3 1,4 1,60 1,72 1,80 1,126 1,161 1}
+{0 ?,34 1,62 1,72 1}
+{0 ?,135 1}
+{0 ?,12 1,19 1,51 1,74 1,123 1,175 1}
+{0 ?,64 1,75 1,78 1,121 1,141 1,152 1,155 1}
+{0 ?,26 1,72 1,93 1,100 1,146 1}
+{0 ?,11 1,65 1,72 1,84 1,133 1,140 1,141 1,152 1,155 1,162 1,170 1,183 1}
+{0 ?,64 1,126 1,155 1}
+{0 ?,2 1,29 1,73 1,74 1,83 1,86 1,109 1,134 1}
+{0 ?,12 1,52 1,56 1,63 1,67 1,75 1,93 1,107 1,155 1,172 1}
+{0 ?,12 1,52 1,64 1,175 1}
+{0 ?,52 1,53 1,64 1,72 1,75 1,155 1,161 1,167 1}
+{0 ?,42 1,44 1,70 1,75 1,153 1,155 1,172 1}
+{0 ?,75 1}
+{0 ?,62 1,90 1,155 1,175 1}
+{0 ?,3 1,4 1,12 1,28 1,55 1,56 1,72 1,128 1}
+{0 ?,52 1,75 1,141 1,150 1,169 1}
+{0 ?,35 1,72 1,116 1,150 1}
+{0 ?,62 1}
+{0 ?,48 1,155 1}
+{0 ?,11 1,24 1,74 1,79 1,89 1,93 1,102 1,108 1,114 1,116 1,169 1,480 1,768 1}
+{0 ?,103 1,153 1,155 1,157 1,179 1,183 1}
+{0 ?,72 1,109 1,175 1}
+{0 ?,72 1,82 1}
+{0 ?,180 1}
+{0 ?,72 1,83 1,102 1,108 1,155 1,157 1,180 1,181 1}
+{0 ?,9 1,16 1,53 1,72 1,79 1,93 1,99 1,109 1,133 1,141 1,170 1}
+{0 ?,13 1}
+{0 ?,48 1,72 1}
+{0 ?,11 1,35 1,69 1,74 1}
+{0 ?,26 1,93 1}
+{0 ?,53 1,78 1,93 1,125 1,143 1,155 1}
+{0 ?,34 1,54 1,162 1}
+{0 ?,24 1,52 1,74 1,93 1,108 1}
+{0 ?,28 1,83 1,86 1,93 1,108 1,109 1,173 1}
+{0 ?,28 1,75 1,108 1,153 1}
+{0 ?,66 1,72 1,74 1,76 1,79 1,93 1,101 1,102 1,119 1,152 1,155 1,170 1,182 1,183 1}
+{0 ?,67 1,93 1,141 1}
+{0 ?}
+{0 ?,56 1,58 1,72 1,76 1,93 1,141 1,153 1}
+{0 ?,40 1,44 1,75 1,168 1}
+{0 ?,72 1,90 1,150 1,171 1,180 1}
+{0 ?,9 1,34 1,93 1,170 1}
+{0 ?,28 1,72 1,75 1,87 1,90 1,93 1,119 1,150 1}
+{0 ?,3 1,4 1,9 1,52 1}
+{0 ?,11 1,12 1,21 1,72 1,74 1,79 1,102 1,109 1,113 1,172 1,175 1}
+{0 ?,12 1,13 1,17 1,72 1,75 1,76 1,79 1,93 1,99 1,102 1,112 1,116 1,141 1,143 1,150 1,153 1,155 1,169 1,180 1}
+{0 ?,72 1,100 1}
+{0 ?,28 1}
+{0 ?,12 1,21 1,28 1,63 1,76 1,136 1,138 1,155 1,157 1}
+{0 ?,9 1,12 1,16 1,72 1,113 1}
+{0 ?,93 1,147 1,161 1}
+{0 ?,70 1,76 1,109 1,180 1}
+{0 ?,16 1,17 1,42 1,44 1,55 1,64 1,72 1,102 1,116 1,155 1,176 1,180 1}
+{0 ?,54 1,60 1,72 1,141 1}
+{0 ?,11 1,69 1,72 1,73 1,102 1,183 1}
+{0 ?,12 1,152 1}
+{0 ?,58 1,85 1,119 1,150 1}
+{0 ?,9 1,19 1,36 1,52 1,69 1,72 1,92 1,108 1,116 1,117 1}
+{0 ?,12 1,34 1,52 1,73 1,78 1,155 1,157 1,161 1,169 1}
+{0 ?,11 1,71 1,155 1,177 1}
+{0 ?,26 1,72 1,79 1,123 1,150 1}
+{0 ?,72 1}
+{0 ?,70 1,153 1}
+{0 ?,3 1,4 1,48 1,72 1,118 1,141 1,155 1}
+{0 ?,12 1,19 1,24 1,72 1,74 1,76 1,125 1}
+{0 ?,19 1,69 1,93 1,126 1,155 1,161 1,183 1}
+{0 ?,12 1,69 1,113 1,132 1,155 1}
+{0 ?,155 1}
+{0 ?,40 1,64 1,72 1,78 1,108 1,144 1}
+{0 ?,12 1,72 1,75 1,82 1,119 1,138 1}
+{0 ?,6 1,12 1,19 1,21 1,52 1,53 1,56 1,64 1,69 1,72 1,103 1,109 1,114 1,116 1,141 1,150 1,155 1,760 1}
+{0 ?,24 1}
+{0 ?,40 1,50 1,72 1,93 1}
+{0 ?,28 1,70 1,72 1,78 1,83 1,90 1,102 1,180 1}
+{0 ?,24 1,75 1,93 1,175 1}
+{0 ?,173 1,175 1}
+{0 ?,82 1,109 1,111 1}
+{0 ?,25 1,40 1,52 1,93 1,128 1}
+{0 ?,28 1}
+{0 ?,42 1,58 1,64 1,75 1,76 1,102 1,125 1,155 1}
+{0 ?,75 1}
+{0 ?,44 1,152 1}
+{0 ?,12 1,19 1,28 1,55 1,64 1,72 1,93 1,94 1,102 1,116 1,125 1}
+{0 ?,72 1,90 1,125 1,155 1,180 1}
+{0 ?,12 1,59 1,72 1}
+{0 ?,13 1,43 1,56 1,82 1,95 1,116 1,151 1,153 1,155 1,169 1}
+{0 ?,61 1,72 1}
+{0 ?,59 1,66 1,76 1,119 1,155 1}
+{0 ?,72 1,173 1}
+{0 ?,42 1,52 1,70 1,76 1,90 1,93 1,100 1,102 1,146 1,153 1,180 1}
+{0 ?,12 1,50 1,72 1,75 1,95 1,148 1,180 1}
+{0 ?,16 1,25 1}
+{0 ?,34 1,44 1,161 1,175 1}
+{0 ?,60 1,71 1,74 1,78 1,127 1,153 1,155 1}
+{0 ?,3 1,4 1,12 1,48 1,79 1}
+{0 ?,6 1,9 1,72 1,180 1}
+{0 ?,11 1,35 1,69 1,74 1,108 1}
+{0 ?,72 1,94 1,180 1}
+{0 ?,145 1,182 1}
+{0 ?,12 1,26 1,43 1,55 1,60 1,72 1,80 1,82 1,93 1,111 1,116 1,125 1,155 1,161 1,169 1,177 1}
+{0 ?,12 1,16 1,79 1,103 1,150 1,172 1}
+{0 ?,119 1}
+{0 ?,11 1,12 1,26 1,42 1,55 1,72 1,103 1,161 1,476 1}
+{0 ?,9 1,24 1,50 1,56 1,64 1,66 1,67 1,69 1,72 1,78 1,146 1}
+{0 ?,19 1,26 1,69 1,74 1,128 1}
+{0 ?,28 1,32 1,34 1,69 1,78 1,79 1,102 1,114 1,155 1}
+{0 ?,9 1,19 1,40 1,43 1,75 1,90 1,93 1,161 1}
+{0 ?,12 1,26 1,60 1,93 1}
+{0 ?,3 1,42 1,72 1,102 1,116 1,161 1,167 1}
+{0 ?,42 1,52 1,72 1,75 1,90 1,102 1,180 1}
+{0 ?,85 1}
+{0 ?,55 1,59 1,62 1,70 1,102 1,106 1,113 1,155 1}
+{0 ?,82 1,93 1,155 1,179 1}
+{0 ?,3 1,4 1,7 1,9 1,11 1,24 1,66 1,75 1,76 1,83 1,90 1,152 1,155 1,169 1,454 1}
+{0 ?,19 1,76 1,161 1}
+{0 ?,16 1,72 1,89 1,102 1,152 1,162 1}
+{0 ?,52 1,58 1,66 1,79 1,82 1}
+{0 ?,74 1}
+{0 ?,43 1,64 1,74 1,93 1,109 1,145 1,150 1,155 1,180 1}
+{0 ?,3 1,4 1,24 1,28 1,56 1,64 1,72 1,78 1,82 1,155 1}
+{0 ?,9 1,46 1,70 1,72 1,152 1}
+{0 ?,76 1}
+{0 ?}
+{0 ?,56 1,72 1,75 1,100 1,143 1,155 1}
+{0 ?,12 1,24 1,59 1,108 1,123 1}
+{0 ?,28 1,93 1,147 1}
+{0 ?,136 1,142 1}
+{0 ?,12 1,13 1,24 1,30 1,52 1,64 1,72 1,76 1,83 1,86 1,132 1,139 1,142 1,150 1,153 1,155 1,180 1}
+{0 ?,23 1,72 1,92 1,155 1}
+{0 ?,12 1,73 1,75 1}
+{0 ?,16 1,61 1,80 1}
+{0 ?,12 1,26 1,34 1,55 1,60 1,72 1,75 1,110 1,155 1,534 1}
+{0 ?,114 1,149 1}
+{0 ?,18 1,72 1,83 1,93 1,103 1,155 1}
+{0 ?,79 1,96 1,114 1}
+{0 ?,60 1,72 1,169 1,173 1}
+{0 ?,21 1,26 1,28 1,52 1,65 1,72 1,155 1,161 1,168 1,182 1}
+{0 ?,69 1,72 1,144 1,161 1}
+{0 ?,67 1,72 1,74 1,102 1,109 1,168 1}
+{0 ?,24 1,60 1,64 1}
+{0 ?,26 1,54 1,72 1,93 1,117 1,166 1}
+{0 ?,28 1,116 1,152 1,182 1}
+{0 ?,72 1}
+{0 ?,72 1,76 1,118 1,164 1}
+{0 ?,56 1,103 1,109 1,155 1,161 1}
+{0 ?,15 1,171 1}
+{0 ?,29 1,75 1,126 1,141 1,161 1}
+{0 ?,12 1,21 1,35 1,61 1,80 1,155 1}
+{0 ?,72 1,73 1,111 1,147 1,173 1}
+{0 ?,24 1,28 1,32 1,75 1,78 1,150 1,169 1}
+{0 ?,61 1,726 1}
+{0 ?}
+{0 ?,4 1,12 1,22 1,24 1,25 1,29 1,55 1,72 1,78 1,79 1,91 1,108 1,119 1,141 1,155 1}
+{0 ?,76 1,78 1,119 1,151 1,155 1,161 1,168 1}
+{0 ?,3 1,4 1,42 1,116 1,155 1,169 1}
+{0 ?,24 1,72 1,76 1}
+{0 ?,72 1,116 1,143 1,153 1}
+{0 ?,72 1,78 1,141 1,161 1,167 1}
+{0 ?,30 1,56 1,73 1,142 1,147 1,152 1}
+{0 ?,26 1,27 1,56 1,64 1,72 1,74 1,99 1,102 1,108 1,116 1,145 1,155 1}
+{0 ?,9 1,89 1,119 1,145 1}
+{0 ?,103 1,114 1,155 1}
+{0 ?,12 1,72 1,78 1,85 1,90 1,93 1,102 1,116 1,141 1,150 1,153 1,169 1}
+{0 ?,19 1,26 1,74 1,128 1,177 1}
+{0 ?,19 1,20 1,24 1,30 1,72 1,74 1,75 1,78 1,102 1,136 1,141 1,155 1,157 1,460 1}
+{0 ?,76 1}
+{0 ?,28 1,44 1,72 1,128 1,150 1,155 1,168 1}
+{0 ?,17 1,59 1,102 1,617 1}
+{0 ?}
+{0 ?,9 1,12 1,22 1,51 1,59 1,60 1,72 1,93 1,109 1,151 1}
+{0 ?,75 1,150 1}
+{0 ?,19 1,26 1,44 1,81 1,85 1,93 1,155 1,168 1,175 1}
+{0 ?,16 1,44 1,93 1}
+{0 ?,15 1,26 1,42 1,82 1,93 1,109 1}
+{0 ?,52 1,66 1,93 1,102 1,104 1,108 1,109 1,150 1}
+{0 ?,12 1,59 1,64 1,128 1,151 1}
+{0 ?,72 1,82 1,155 1}
+{0 ?,3 1,4 1,63 1,75 1,76 1,79 1,99 1,114 1,138 1,152 1}
+{0 ?,52 1,55 1,105 1,128 1,175 1,180 1}
+{0 ?,12 1,31 1,155 1}
+{0 ?,39 1,72 1,139 1}
+{0 ?,24 1,72 1,164 1}
+{0 ?,3 1,4 1,19 1,33 1,44 1,64 1,75 1,108 1,119 1,155 1,468 1}
+{0 ?}
+{0 ?,6 1,72 1,90 1,157 1}
+{0 ?,12 1,19 1,72 1,76 1,116 1}
+{0 ?,9 1,12 1,21 1,64 1,65 1,68 1,70 1,72 1,77 1,78 1,161 1,168 1,175 1}
+{0 ?}
+{0 ?,6 1,12 1,42 1,43 1,53 1,72 1,93 1,102 1,108 1,141 1,155 1,169 1,172 1,177 1}
+{0 ?,19 1,24 1,78 1,90 1}
+{0 ?,18 1,72 1,89 1}
+{0 ?,12 1,73 1,75 1}
+{0 ?,70 1,182 1,183 1}
+{0 ?,12 1,13 1,24 1,52 1,69 1,74 1,75 1,93 1,107 1,116 1,142 1,144 1,161 1,172 1}
+{0 ?,4 1,19 1,44 1,52 1,75 1,155 1}
+{0 ?,6 1,25 1,60 1,72 1,75 1,150 1,155 1}
+{0 ?,3 1,4 1,5 1,12 1,52 1,76 1,79 1,99 1,110 1,116 1,121 1,143 1,155 1}
+{0 ?,28 1,46 1,72 1,73 1,121 1}
+{0 ?,34 1,153 1}
+{0 ?,3 1,4 1,52 1,74 1,101 1}
+{0 ?,16 1,64 1}
+{0 ?,12 1,19 1,44 1,64 1,72 1,102 1}
+{0 ?,109 1,144 1}
+{0 ?,3 1,4 1,19 1,26 1,58 1,74 1,108 1,153 1}
+{0 ?,19 1,34 1,56 1,58 1,64 1,74 1,93 1,141 1,147 1,153 1,155 1,156 1,161 1,168 1,173 1}
+{0 ?,52 1,59 1,61 1,74 1,116 1,155 1}
+{0 ?,19 1,28 1,44 1,48 1,56 1,70 1,72 1,83 1,93 1,102 1,155 1,180 1}
+{0 ?,5 1,12 1,75 1,76 1,153 1,173 1}
+{0 ?,72 1,155 1}
+{0 ?,19 1,79 1,82 1,179 1}
+{0 ?,85 1,86 1,114 1}
+{0 ?,72 1,93 1}
+{0 ?,21 1}
+{0 ?,9 1,16 1,46 1,141 1,152 1}
+{0 ?,70 1,76 1,82 1,119 1,155 1}
+{0 ?,24 1,51 1,72 1,75 1,76 1,78 1,157 1}
+{0 ?,76 1,141 1}
+{0 ?,72 1}
+{0 ?,56 1,72 1,74 1,75 1,109 1,173 1}
+{0 ?,12 1,19 1,24 1,59 1,83 1,102 1,151 1}
+{0 ?,24 1,66 1}
+{0 ?,19 1,24 1,72 1,114 1}
+{0 ?,64 1,72 1,76 1,82 1,135 1,155 1}
+{0 ?,109 1}
+{0 ?,183 1}
+{0 ?,9 1,11 1,12 1,17 1,75 1,76 1,141 1}
+{0 ?,72 1,75 1,124 1}
+{0 ?,37 1,72 1,102 1,150 1}
+{0 ?,56 1,72 1,102 1}
+{0 ?,16 1,52 1,72 1,75 1,93 1,103 1,131 1,150 1}
+{0 ?,34 1,72 1,109 1,155 1}
+{0 ?,72 1}
+{0 ?,12 1,72 1}
+{0 ?,3 1,4 1,7 1,9 1,11 1,72 1,76 1,110 1,133 1,153 1,162 1,166 1}
+{0 ?,82 1}
+{0 ?,44 1,72 1,126 1,161 1}
+{0 ?,19 1,180 1}
+{0 ?,6 1,72 1,111 1,141 1,155 1}
+{0 ?,64 1,150 1,161 1}
+{0 ?,74 1}
+{0 ?}
+{0 ?,76 1,152 1}
+{0 ?,19 1,24 1,28 1,56 1,72 1,78 1,111 1,132 1,150 1,153 1,155 1,168 1,180 1}
+{0 ?,16 1}
+{0 ?,18 1,25 1,44 1,155 1,168 1}
+{0 ?,60 1,72 1,101 1}
+{0 ?,63 1,76 1,110 1,125 1,138 1}
+{0 ?,3 1,4 1,7 1,9 1,11 1,12 1,19 1,59 1,62 1,70 1,79 1,103 1,108 1,118 1,155 1,164 1}
+{0 ?,9 1,69 1,73 1,75 1,85 1,119 1}
+{0 ?,24 1,78 1,79 1}
+{0 ?,76 1,119 1,142 1}
+{0 ?,19 1,40 1,162 1}
+{0 ?,9 1,55 1,102 1,118 1,155 1,177 1}
+{0 ?,9 1,12 1,51 1,74 1,111 1,149 1}
+{0 ?,12 1,44 1,66 1,72 1,76 1,77 1,155 1}
+{0 ?,11 1,144 1}
+{0 ?,12 1,24 1,52 1,56 1,78 1,79 1,155 1}
+{0 ?,26 1,163 1}
+{0 ?,12 1,52 1,56 1,76 1,78 1,141 1,372 1}
+{0 ?,70 1,102 1}
+{0 ?,147 1}
+{0 ?,44 1,70 1,75 1,150 1}
+{0 ?,12 1,24 1,52 1,55 1,75 1,78 1,93 1,116 1,144 1,150 1,590 1}
+{0 ?,6 1,85 1,113 1}
+{0 ?,24 1,52 1,76 1,82 1,141 1,155 1}
+{0 ?,24 1,28 1,61 1,74 1,102 1,175 1}
+{0 ?,20 1,56 1,72 1,79 1,141 1}
+{0 ?,72 1,155 1,168 1,180 1}
+{0 ?,83 1,161 1}
+{0 ?,12 1,13 1,26 1,31 1,56 1,93 1,120 1,155 1,173 1}
+{0 ?,56 1,58 1,142 1}
+{0 ?,19 1,24 1,60 1,64 1,72 1,105 1,111 1,153 1}
+{0 ?,114 1,155 1,157 1}
+{0 ?,43 1,60 1,72 1,78 1,102 1,116 1,125 1,143 1,161 1}
+{0 ?,59 1,72 1,103 1,110 1,128 1}
+{0 ?,2 1,44 1,72 1,78 1,90 1,102 1,103 1,123 1,136 1,153 1,155 1,175 1,180 1}
+{0 ?,73 1}
+{0 ?,44 1,78 1,82 1,141 1}
+{0 ?,42 1,56 1,173 1}
+{0 ?,55 1,110 1,128 1,150 1}
+{0 ?,141 1,152 1,183 1}
+{0 ?,56 1,74 1}
+{0 ?,12 1,28 1,56 1,72 1,73 1,102 1,119 1,143 1,147 1}
+{0 ?,12 1,19 1,26 1,74 1,75 1,85 1,93 1}
+{0 ?,70 1,75 1,79 1,82 1,141 1,150 1,155 1}
+{0 ?,93 1,150 1}
+{0 ?,34 1,62 1,72 1}
+{0 ?,28 1,93 1,102 1,110 1,128 1,136 1}
+{0 ?,11 1,80 1,102 1,755 1}
+{0 ?,34 1,72 1,75 1,109 1,114 1}
+{0 ?,72 1,75 1,90 1,102 1,109 1,155 1,168 1}
+{0 ?,12 1,52 1,55 1,63 1,64 1,72 1,94 1,99 1}
+{0 ?,13 1,52 1,108 1}
+{0 ?,34 1,72 1,82 1,85 1,155 1,161 1}
+{0 ?,6 1,7 1,72 1,90 1}
+{0 ?,72 1,93 1,110 1,113 1,150 1}
+{0 ?,64 1,113 1,155 1}
+{0 ?,128 1,150 1}
+{0 ?}
+{0 ?,114 1}
+{0 ?,12 1,72 1,75 1}
+{0 ?,121 1,155 1}
+{0 ?,12 1,52 1,73 1,83 1,102 1,116 1,141 1,142 1,168 1,173 1}
+{0 ?,11 1,64 1,72 1}
+{0 ?,34 1,72 1,173 1}
+{0 ?,52 1,116 1,125 1,152 1,155 1}
+{0 ?,12 1,79 1,99 1}
+{0 ?,13 1,152 1,492 1}
+{0 ?,66 1}
+{0 ?,6 1,75 1,127 1,135 1}
+{0 ?,28 1,93 1}
+{0 ?,64 1,108 1,150 1,155 1,175 1}
+{0 ?,12 1,60 1,75 1,116 1,155 1,168 1,175 1}
+{0 ?,12 1,21 1,74 1,79 1,82 1,155 1,161 1,168 1}
+{0 ?,93 1}
+{0 ?,12 1,78 1}
+{0 ?,70 1,72 1,74 1,150 1}
+{0 ?,19 1,34 1,72 1,170 1,566 1,600 1}
+{0 ?}
+{0 ?,12 1,64 1,155 1}
+{0 ?,64 1,76 1,93 1,108 1,135 1}
+{0 ?,9 1,19 1,60 1,72 1,74 1,75 1,78 1,82 1,98 1,141 1,143 1,162 1}
+{0 ?,6 1,34 1,67 1,79 1,155 1}
+{0 ?,12 1,109 1,161 1,162 1}
+{0 ?,3 1,4 1,26 1,33 1,52 1}
+{0 ?,64 1,72 1,78 1,109 1}
+{0 ?,43 1,56 1,59 1,72 1,76 1,94 1,113 1,141 1,153 1,155 1,173 1,180 1}
+{0 ?,63 1,66 1,72 1}
+{0 ?,72 1}
+{0 ?,44 1,72 1,85 1,157 1}
+{0 ?,12 1,17 1,34 1,35 1,52 1,76 1,78 1,82 1,93 1,150 1,155 1,168 1,173 1}
+{0 ?,13 1,21 1,56 1,72 1,97 1,153 1,301 1}
+{0 ?,24 1,44 1,70 1,72 1,93 1,175 1}
+{0 ?,64 1,78 1,79 1,152 1}
+{0 ?,12 1,59 1,72 1,76 1,94 1,153 1,155 1}
+{0 ?,75 1,119 1,175 1}
+{0 ?,12 1,24 1,64 1,70 1,72 1,102 1}
+{0 ?,16 1,24 1,26 1,89 1,108 1,141 1}
+{0 ?,75 1,78 1}
+{0 ?,45 1,180 1}
+{0 ?,72 1,93 1,102 1,114 1}
+{0 ?,89 1,114 1}
+{0 ?,34 1}
+{0 ?,601 1}
+{0 ?,40 1,55 1,72 1,102 1}
+{0 ?,19 1,72 1,76 1,78 1,83 1}
+{0 ?,175 1}
+{0 ?,72 1,100 1,109 1,118 1,135 1}
+{0 ?,155 1}
+{0 ?,9 1,11 1,12 1,16 1,56 1,72 1,76 1,89 1,108 1,109 1,114 1,162 1}
+{0 ?,26 1,73 1,85 1,114 1,143 1}
+{0 ?,2 1,3 1,4 1,74 1,109 1}
+{0 ?}
+{0 ?}
+{0 ?,6 1,56 1,65 1,72 1,93 1,104 1,132 1,155 1}
+{0 ?,11 1,72 1,89 1,119 1,141 1,144 1,170 1}
+{0 ?,72 1}
+{0 ?,9 1,60 1,72 1,74 1,76 1,90 1,102 1,135 1,153 1,161 1,439 1}
+{0 ?,12 1,72 1,93 1,155 1,173 1,494 1}
+{0 ?,9 1,11 1,89 1,102 1,144 1,162 1,166 1}
+{0 ?,12 1,169 1}
+{0 ?,72 1,102 1,155 1,168 1,175 1}
+{0 ?,12 1,60 1,72 1,73 1,78 1,79 1,93 1,125 1,155 1,169 1}
+{0 ?,12 1,21 1,35 1,61 1,80 1,155 1}
+{0 ?,13 1,59 1,79 1,114 1,150 1,164 1}
+{0 ?,42 1,60 1,72 1,94 1,109 1}
+{0 ?,26 1,56 1,72 1,74 1,76 1,93 1,101 1,102 1,119 1,152 1,155 1,161 1,177 1}
+{0 ?,59 1,76 1,135 1}
+{0 ?}
+{0 ?,9 1,19 1,43 1,52 1,72 1,150 1}
+{0 ?,12 1,18 1,44 1,72 1,103 1,119 1}
+{0 ?}
+{0 ?,12 1,60 1,72 1,79 1,82 1}
+{0 ?,72 1,109 1,141 1}
+{0 ?}
+{0 ?,52 1,183 1}
+{0 ?,62 1}
+{0 ?,73 1,74 1,147 1,173 1}
+{0 ?,12 1,44 1,52 1,70 1,79 1,108 1,144 1}
+{0 ?,9 1,36 1,56 1,109 1}
+{0 ?,155 1,180 1}
+{0 ?,24 1,72 1,102 1}
+{0 ?,66 1,72 1}
+{0 ?,6 1,12 1,75 1,79 1,119 1,150 1,155 1}
+{0 ?,12 1,24 1,34 1,69 1,72 1,76 1,78 1,90 1,93 1,102 1,155 1,165 1,180 1}
+{0 ?,12 1,153 1,161 1}
+{0 ?,55 1,72 1}
+{0 ?,34 1,69 1,72 1,82 1,155 1,168 1}
+{0 ?,12 1,64 1,72 1}
+{0 ?,12 1,42 1,60 1,119 1}
+{0 ?,94 1}
+{0 ?,28 1,44 1,64 1,70 1,93 1,150 1,155 1}
+{0 ?}
+{0 ?,59 1,72 1}
+{0 ?,19 1,59 1,76 1,78 1,144 1,155 1,243 1}
+{0 ?,72 1,78 1,159 1,169 1}
+{0 ?,3 1,4 1,12 1,19 1,93 1}
+{0 ?,42 1,72 1,137 1,155 1,157 1,180 1}
+{0 ?,12 1,64 1,152 1}
+{0 ?,78 1,83 1,86 1,93 1,138 1,152 1,155 1}
+{0 ?,28 1,44 1,78 1,82 1,119 1,155 1,168 1}
+{0 ?,113 1,151 1}
+{0 ?,76 1,93 1,102 1,108 1,155 1,175 1}
+{0 ?,3 1,4 1,44 1}
+{0 ?,72 1,93 1,119 1,155 1,168 1}
+{0 ?,28 1,52 1,75 1,121 1,150 1,155 1}
+{0 ?,9 1,70 1,72 1,108 1}
+{0 ?,52 1,72 1,74 1,81 1,118 1,132 1,155 1,168 1}
+{0 ?,19 1,72 1}
+{0 ?,3 1,4 1,12 1,52 1,74 1,102 1,144 1,150 1,155 1,166 1,175 1}
+{0 ?,12 1,19 1,34 1,52 1,63 1,75 1,100 1,180 1}
+{0 ?,34 1,66 1,155 1}
+{0 ?,3 1,4 1,72 1,116 1}
+{0 ?,12 1,56 1,72 1,74 1,116 1,155 1,169 1,180 1}
+{0 ?,9 1,24 1,50 1,56 1,64 1,66 1,67 1,69 1,72 1,78 1,146 1}
+{0 ?,52 1}
+{0 ?,72 1,99 1,155 1,449 1}
+{0 ?,3 1,4 1}
+{0 ?,28 1,55 1,161 1,162 1,168 1}
+{0 ?,150 1}
+{0 ?,24 1,72 1,93 1,102 1}
+{0 ?,6 1,9 1,24 1,40 1,60 1,73 1,75 1,89 1,116 1}
+{0 ?,24 1,36 1,52 1,72 1,78 1,79 1,93 1,108 1,141 1,151 1,155 1,180 1}
+{0 ?,12 1,76 1,78 1,108 1,116 1,127 1,155 1,176 1}
+{0 ?}
+{0 ?,12 1,75 1}
+{0 ?,69 1,155 1,183 1}
+{0 ?,12 1,75 1,76 1,141 1,155 1,164 1}
+{0 ?,9 1,12 1,24 1,52 1,72 1,74 1,75 1,102 1,155 1}
+{0 ?,52 1,70 1,72 1,141 1}
+{0 ?,141 1}
+{0 ?}
+{0 ?,34 1,56 1,70 1,72 1,102 1,183 1}
+{0 ?,55 1}
+{0 ?,73 1}

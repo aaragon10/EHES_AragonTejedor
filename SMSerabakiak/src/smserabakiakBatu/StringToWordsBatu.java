@@ -45,33 +45,28 @@ public class StringToWordsBatu {
 			// TODO Auto-generated catch block
 		}
 		dataTrain.setClassIndex(dataTrain.numAttributes()-1);
-		System.out.println(dataTrain.numInstances());
+
 		dataDev.setClassIndex(dataDev.numAttributes()-1);
-		System.out.println(dataDev.numInstances());
-		System.out.println(dataTest.numInstances());
 		
 		for(int i=0;i<dataDev.numInstances();i++){
 			dataTrain.add(dataDev.get(i));
 		}
-		System.out.println(dataTrain.numInstances());
 		for(int i=0;i<dataTest.numInstances();i++){
 			dataTrain.add(dataTest.get(i));
 		}
-		System.out.println(dataTrain.numInstances());
-		
 		StringToWordVector sw=new StringToWordVector();
 		sw.setLowerCaseTokens(true);
 		sw.setInputFormat(dataTrain);
 		Instances newData=Filter.useFilter(dataTrain, sw);
-		System.out.println(dataTrain.numInstances());
-		/*SparseToNonSparse s=new SparseToNonSparse();
-		s.setInputFormat(newData);
-		Instances new2Data=Filter.useFilter(newData, s);*/
-		ArffSaver saver= new ArffSaver();
-		File f=new File(args[3]);
-		saver.setInstances(newData);
-		saver.setFile(f);
-		saver.writeBatch();
+		if(args[3].equals("i")){
+			FfsInfoGainBatu fss=new FfsInfoGainBatu();
+			fss.infoGainGaratu(newData,args[4], args[5], args[6]);
+		}else if(args[3].equals("s")){
+			TFIDFBatu tf=new TFIDFBatu();
+			tf.tfidf(newData, args[4], args[5], args[6]);
+		}else{
+			System.out.println("Flag-a txarto sartu duzu");
+		}
 	}
 	
 
