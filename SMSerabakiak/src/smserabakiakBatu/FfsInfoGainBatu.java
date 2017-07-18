@@ -39,6 +39,7 @@ public class FfsInfoGainBatu {
 		AtributuakEzabatu az=new AtributuakEzabatu();
 		Instances newDev=az.ezabatu(dev, newTrain);
 		Instances newTest=az.ezabatu(test, newTrain);
+		System.out.println(newTrain.numAttributes());
 		ArffSortu arf=new ArffSortu();
 		arf.sortu(newTrain, arg4);
 		arf.sortu(newDev, arg5);

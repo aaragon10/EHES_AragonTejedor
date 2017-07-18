@@ -58,7 +58,8 @@ public class BaggingBatu {
 		nb.buildClassifier(dataTrain);
 		Evaluation baseline=new Evaluation(dataTrain);
 		baseline.evaluateModel(nb, dataDev);
-		double fmeasureBaseline=baseline.fMeasure(0);
+		double fmeasureBaseline=baseline.weightedFMeasure()/*fMeasure(0)*/;
+		System.out.println(fmeasureBaseline);
 		fw1.write("Hold out: Train vs Dev");
 		fw1.write(baseline.toSummaryString());
 		fw1.write(baseline.toClassDetailsString());
@@ -71,30 +72,38 @@ public class BaggingBatu {
 		IBk ib= new IBk(3);
 		double fmOptimoa=0;
 		int jOptimoa=0;
+		int iOptimoa=0;
 		for(int i=0;i<3;i++){
 			bgg.setNumIterations(3);
 			if(i==0){
-				bgg.setClassifier(nb);
+				bgg.setClassifier(ib);
+				System.out.println("Ibk");
+				
 			}else if(i==1){
 				bgg.setClassifier(j48);
+				System.out.println("J48");
 			}else{
-				bgg.setClassifier(ib);
+				bgg.setClassifier(nb);
+				System.out.println("Naive Bayes");
 			}
 			for(int j=5;j<30;j+=5){
 				bgg.setBagSizePercent(j);
 				bgg.buildClassifier(dataTrain);
 				Evaluation eval=new Evaluation(dataTrain);
 				eval.evaluateModel(bgg, dataDev);
-				if(fmOptimoa<eval.fMeasure(0)){
-					fmOptimoa=eval.fMeasure(0);
+				//System.out.println(eval.weightedFMeasure());
+				if(fmOptimoa</*eval.fMeasure(0))*/eval.weightedFMeasure()){
+					fmOptimoa=eval.weightedFMeasure()/*eval.fMeasure(0)*/;
 					cf=bgg.getClassifier();
 					jOptimoa=j;
+					iOptimoa=i;
 				}
 			}
 		}
 		bgg.setBagSizePercent(jOptimoa);
 		System.out.println(jOptimoa);
-		System.out.println(cf);
+		System.out.println(iOptimoa);
+		System.out.println(fmOptimoa);
 		bgg.setClassifier(cf);
 		bgg.buildClassifier(dataTrain);
 		Evaluation eval=new Evaluation(dataTrain);

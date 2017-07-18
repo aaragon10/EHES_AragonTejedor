@@ -54,6 +54,9 @@ public class StringToWordsBatu {
 		for(int i=0;i<dataTest.numInstances();i++){
 			dataTrain.add(dataTest.get(i));
 		}
+		System.out.println(dataTrain.numAttributes());
+		System.out.println(dataDev.numAttributes());
+		System.out.println(dataTest.numAttributes());
 		StringToWordVector sw=new StringToWordVector();
 		sw.setLowerCaseTokens(true);
 		sw.setInputFormat(dataTrain);

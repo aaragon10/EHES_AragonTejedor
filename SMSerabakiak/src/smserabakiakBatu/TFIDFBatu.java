@@ -9,6 +9,7 @@ import weka.core.Instances;
 import weka.core.converters.ArffSaver;
 import weka.filters.Filter;
 import weka.filters.unsupervised.attribute.StringToWordVector;
+import weka.filters.unsupervised.instance.SparseToNonSparse;
 
 public class TFIDFBatu {
 	public TFIDFBatu(){
@@ -28,6 +29,9 @@ public class TFIDFBatu {
 		Instances train=new Instances(data, 0, 3374);
 		Instances dev=new Instances(data, 3374, 1100);
 		Instances test=new Instances(data,4474,1100);
+		SparseToNonSparse s=new SparseToNonSparse();
+		s.setInputFormat(train);
+		Instances new2Data=Filter.useFilter(train, s);
 		arf.sortu(train, arg4);
 		arf.sortu(dev, arg5);
 		arf.sortu(test, arg6);
